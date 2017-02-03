@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "판교 단독주택"
+title:  "판교 단독주택 정리"
 date:   2017-02-03 09:54:22 +0900
-categories: jekyll update
-tags: 판교 운중동 단독주택 건축가 시공사
+categories: 자료
+tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉스
 ---
 
 | 주소 | 이름  | 설계  | 시공   | 구조  | 듀플렉스 | 링크 |
