@@ -17,6 +17,15 @@ tags: 판교 단독주택 설계사 시공사
 | 판교로 210번길 4-1 | 시전당 | [JHY건축사무소][007]{:target="_blank"} |  | 철근콘크리트 | N | [homify][007_1]{:target="_blank"} |
 | 판교로 210번길 18-4 | One Roof House | [MLNP Architects][008]{:target="_blank"} | [GIP][008_1]{:target="_blank"} | 경량목 | N | [homify][008_2]{:target="_blank"}, [동영상][008_3]{:target="_blank"}|
 | 판교로 197번길 3-10 | 층층마루집 | [조진만건축사무소][009]{:target="_blank"} |  | 철근콘크리트 | N | [월간공간][009_1]{:target="_blank"} |
+| 서판교로 180번길 3-3 | 호연당 | [ATELIER17][010] | 서강건설주식회사 | 철근콘크리트 | N | [homify][010_1] |
+| 판교로 197번길 19 | 삼대헌 | [ISM건축][011] | | | N | [리빙센스][011_1] |
+
+
+[011]: http://ism-architects.com/?fluxus_portfolio=sam-dae-heon
+[011_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1094&contents_id=23565
+
+[010]: http://www.a-17.com/a17_test/portfolio_show.php?idx=101&page=1&works_type=PORTFOLIO
+[010_1]: https://www.homify.co.kr/projects/89880
 
 [009]: http://jo-jinman.com
 [009_1]: http://www.vmspace.com/2008_re/kor/sub_emagazine_view.asp?category=architecture&idx=11975
