@@ -12,7 +12,7 @@ tags: 판교 단독주택 설계사 시공사
 | 서판교로 188번길 11 | 소소원 | [구가도시][002]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 경량목 | N | [전원속의 내집][002_2]{:target="_blank"} |
 | 판교로 198번길 3-9 | 함양재 | [구가도시][003]{:target="_blank"} |  |  | N | [시사인][003_1]{:target="_blank"} |
 | 서판교로 108번길 12 | 무이동 | [조성욱건축사사무소][004]{:target="_blank"} | 하오스 | 철근콘크리트 | Y | [전원속의 내집][004_1]{:target="_blank"} |
-| 서판교로 132번길 15-12 | AD Fontes | [TRU Architects][005]{:target="_blank"} | [de Archiis][005_1]{:target="_blank"} | 철근콘크리트 | N |  |
+| 서판교로 132번길 15-12 | AD Fontes | [TRU Architects][005]{:target="_blank"} | [de Archiis][005_1]{:target="_blank"} | 철근콘크리트 | N | [리빙센스][005_2]{:target="_blank"} |
 | 서판교로 180번길 9 | 동/서안재 | [호멘토][006]{:target="_blank"} | [호멘토][006]{:target="_blank"} | 경량목 | Y | [전원속의 내집][006_1]{:target="_blank"} |
 | 판교로 210번길 4-1 | 시전당 | [JHY건축사무소][007]{:target="_blank"} |  | 철근콘크리트 | N | [homify][007_1]{:target="_blank"} |
 | 판교로 210번길 18-4 | One Roof House | [MLNP Architects][008]{:target="_blank"} | [GIP][008_1]{:target="_blank"} | 경량목 | N | [homify][008_2]{:target="_blank"}, [동영상][008_3]{:target="_blank"}|
@@ -25,6 +25,15 @@ tags: 판교 단독주택 설계사 시공사
 | 판교원로 311번길 16-9 | HESED | | | | Y | [우먼센스][015_1]{:target="_blank"}, [건축주 블로그][015_2]{:target="_blank"} |
 | 서판교로 74번길 10 | 동행 | [블루하우스코리아][016]{:target="_blank"} | [블루하우스코리아][016]{:target="_blank"} | 중목 | Y | [리빙센스][016_1] |
 | 서판교로 74번길 6 | 사이집 | [조성욱건축사사무소][017]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철큰콘크리트 | Y | [블로그][017_2]{:target="_blank"}, [페이스북][017_3]{:target="_blank"} |
+| 판교원로 30번길 4 | 도시채 | [유타건축][018]{:target="_blank"} | JAIN | 경량목 | Y | [전원속의 내집][018_1]{:target="_blank"} |
+| 판교원로 299번길 3 | 흰벽돌집 | [건축사무소 공감][019] | | 철근콘크리트 | N | [전원속의 내집][019_1]{:target="_blank"} |
+
+
+[019]: http://www.spacelap.co.kr/new/sub_03_01.html?include=&mode=view&id=1329&lc=1000000&sc=&mc=&gid=photo&
+[019_1]: http://www.uujj.co.kr/bbs/board.php?bo_table=house&wr_id=91
+
+[018]: http://www.utaa.co.kr/works.html?year=2016&idx=112&
+[018_1] : http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=120238
 
 [017]: http://www.johsungwook.com/index.php?/projects/pangyodong-duplex-house/
 [017_1]: http://www.jarchiv.com
@@ -69,6 +78,7 @@ tags: 판교 단독주택 설계사 시공사
 
 [005]: http://www.trugroup.co.kr/adfontes
 [005_1]: http://www.dearchiis.co.kr/bbs/board.php?bo_table=projects&wr_id=78
+[005_2]: http://navercast.naver.com/magazine_contents.nhn?rid=1094&rid=&contents_id=57944
 
 [004]: http://www.johsungwook.com/index.php?/projects/pankyodong-543-3w-/
 [004_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=16445
