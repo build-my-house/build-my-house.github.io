@@ -8,11 +8,11 @@ tags: 판교 단독주택 설계사 시공사
 
 | 주소 | 이름  | 설계  | 시공   | 구조  | 듀플렉스 | 링크 |
 | - | - | - | - | - | :-: | - |
-| 판교로197번길 8-2 | 온당 | [ofaa][001]{:target="_blank"} | 이든하임 | 경량목 | Y | [전원속의 내집][001_1]{:target="_blank"}, [한국일보][001_2]{:target="_blank"}  |
-| 서판교로188번길 11 | 소소원 | [구가도시][002]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 경량목 | N | [전원속의 내집][002_2]{:target="_blank"} |
+| 판교로 197번길 8-2 | 온당 | [ofaa][001]{:target="_blank"} | 이든하임 | 경량목 | Y | [전원속의 내집][001_1]{:target="_blank"}, [한국일보][001_2]{:target="_blank"}  |
+| 서판교로 188번길 11 | 소소원 | [구가도시][002]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 경량목 | N | [전원속의 내집][002_2]{:target="_blank"} |
 | 판교로 198번길 3-9 | 함양재 | [구가도시][003]{:target="_blank"} |  |  | N | [시사인][003_1]{:target="_blank"} |
-| 서판교로 108번길 12 | 무이동 | [무이동][004]{:target="_blank"} | 하오스 | 철근콘크리트 | Y | [전원속의 내집][004_1]{:target="_blank"} |
-| 서판교로132번길 15-12 | AD Fontes | [TRU Architects][005]{:target="_blank"} | [de Archiis][005_1]{:target="_blank"} | 철근콘크리트 | N |  |
+| 서판교로 108번길 12 | 무이동 | [조성욱건축사사무소][004]{:target="_blank"} | 하오스 | 철근콘크리트 | Y | [전원속의 내집][004_1]{:target="_blank"} |
+| 서판교로 132번길 15-12 | AD Fontes | [TRU Architects][005]{:target="_blank"} | [de Archiis][005_1]{:target="_blank"} | 철근콘크리트 | N |  |
 | 서판교로 180번길 9 | 동/서안재 | [호멘토][006]{:target="_blank"} | [호멘토][006]{:target="_blank"} | 경량목 | Y | [전원속의 내집][006_1]{:target="_blank"} |
 | 판교로 210번길 4-1 | 시전당 | [JHY건축사무소][007]{:target="_blank"} |  | 철근콘크리트 | N | [homify][007_1]{:target="_blank"} |
 | 판교로 210번길 18-4 | One Roof House | [MLNP Architects][008]{:target="_blank"} | [GIP][008_1]{:target="_blank"} | 경량목 | N | [homify][008_2]{:target="_blank"}, [동영상][008_3]{:target="_blank"}|
@@ -20,10 +20,19 @@ tags: 판교 단독주택 설계사 시공사
 | 서판교로 180번길 3-3 | 호연당 | [ATELIER17][010]{:target="_blank"} | 서강건설주식회사 | 철근콘크리트 | N | [homify][010_1]{:target="_blank"} |
 | 판교로 197번길 19 | 삼대헌 | [ISM건축][011]{:target="_blank"} | | | N | [리빙센스][011_1]{:target="_blank"} |
 | 서판교로 32번길 24 | TIMBER DUPLEX 1 | [민워크샵][012]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 중목 | Y | [homify][012_1]{:target="_blank"} |
-| 운중로14번길 51 | POP House | [AnLStudio][013]{:target="_blank"} | 이든하임 | 경량목 | Y | [전원속의 내집][013_1]{:target="_blank"} |
-| 서판교로100번길 4-14 | 이보재 | [KDDH][014]{:target="_blank"} | [하우징플러스][014_1]{:target="_blank"} | 경량목 | N | [전원속의 내집][014_2]{:target="_blank"} |
+| 운중로 14번길 51 | POP House | [AnLStudio][013]{:target="_blank"} | 이든하임 | 경량목 | Y | [전원속의 내집][013_1]{:target="_blank"} |
+| 서판교로 100번길 4-14 | 이보재 | [KDDH][014]{:target="_blank"} | [하우징플러스][014_1]{:target="_blank"} | 경량목 | N | [전원속의 내집][014_2]{:target="_blank"} |
 | 판교원로 311번길 16-9 | HESED | | | | Y | [우먼센스][015_1]{:target="_blank"}, [건축주 블로그][015_2]{:target="_blank"} |
+| 서판교로 74번길 10 | 동행 | [블루하우스코리아][016]{:target="_blank"} | [블루하우스코리아][016]{:target="_blank"} | 중목 | Y | [리빙센스][016_1] |
+| 서판교로 74번길 6 | 사이집 | [조성욱건축사사무소][017]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철큰콘크리트 | Y | [블로그][017_2]{:target="_blank"}, [페이스북][017_3]{:target="_blank"} |
 
+[017]: http://www.johsungwook.com/index.php?/projects/pangyodong-duplex-house/
+[017_1]: http://www.jarchiv.com
+[017_2]: http://blog.naver.com/s908028/220441693482
+[017_3]: https://www.facebook.com/pages/판교-사이집-思異集/587031538071246
+
+[016]: http://www.koreabluehouse.com/works
+[016_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1094&contents_id=127381
 
 [015_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1089&contents_id=117754
 [015_2]: http://blog.naver.com/PostThumbnailList.nhn?blogId=rudaruda&from=postList&categoryNo=33
