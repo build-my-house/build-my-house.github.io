@@ -12,6 +12,7 @@ tags: 판교 단독주택 설계사 시공사
 | 서판교로188번길 11 | 소소원 | [구가도시][002]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 경량목 | N | [전원속의 내집][002_2]{:target="_blank"} |
 | 판교로 198번길 3-9 | 함양재 | [구가도시][003]{:target="_blank"} | ? | ? | N | [시사인][003_1]{:target="_blank"} |
 
+
 [001]: http://www.o4aa.com/pk
 [001_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&attrId=&contents_id=130024&leafId=1433
 [001_2]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&attrId=&contents_id=130024&leafId=1433
