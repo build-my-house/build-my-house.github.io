@@ -32,8 +32,8 @@ tags: 판교 단독주택 설계사 시공사
 [019]: http://www.spacelap.co.kr/new/sub_03_01.html?include=&mode=view&id=1329&lc=1000000&sc=&mc=&gid=photo&
 [019_1]: http://www.uujj.co.kr/bbs/board.php?bo_table=house&wr_id=91
 
-[018]: http://www.utaa.co.kr/works.html?year=2016&idx=112&
-[018_1] : http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=120238
+[018]: http://www.utaa.co.kr/works.html?year=2016&idx=112
+[018_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=120238
 
 [017]: http://www.johsungwook.com/index.php?/projects/pangyodong-duplex-house/
 [017_1]: http://www.jarchiv.com
