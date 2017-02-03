@@ -10,16 +10,20 @@ tags: 판교 단독주택 설계사 시공사
 | - | - | - | - | - | :-: | - |
 | 판교로197번길 8-2 | 온당 | [ofaa][001]{:target="_blank"} | 이든하임 | 경량목 | Y | [전원속의 내집][001_1]{:target="_blank"}, [한국일보][001_2]{:target="_blank"}  |
 | 서판교로188번길 11 | 소소원 | [구가도시][002]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 경량목 | N | [전원속의 내집][002_2]{:target="_blank"} |
-| 판교로 198번길 3-9 | 함양재 | [구가도시][003]{:target="_blank"} | ? | ? | N | [시사인][003_1]{:target="_blank"} |
+| 판교로 198번길 3-9 | 함양재 | [구가도시][003]{:target="_blank"} |  |  | N | [시사인][003_1]{:target="_blank"} |
 | 서판교로 108번길 12 | 무이동 | [무이동][004]{:target="_blank"} | 하오스 | 철근콘크리트 | Y | [전원속의 내집][004_1]{:target="_blank"} |
 | 서판교로132번길 15-12 | AD Fontes | [TRU Architects][005]{:target="_blank"} | [de Archiis][005_1]{:target="_blank"} | 철근콘크리트 | N |  |
 | 서판교로 180번길 9 | 동/서안재 | [호멘토][006]{:target="_blank"} | [호멘토][006]{:target="_blank"} | 경량목 | Y | [전원속의 내집][006_1]{:target="_blank"} |
 | 판교로 210번길 4-1 | 시전당 | [JHY건축사무소][007]{:target="_blank"} |  | 철근콘크리트 | N | [homify][007_1]{:target="_blank"} |
 | 판교로 210번길 18-4 | One Roof House | [MLNP Architects][008]{:target="_blank"} | [GIP][008_1]{:target="_blank"} | 경량목 | N | [homify][008_2]{:target="_blank"}, [동영상][008_3]{:target="_blank"}|
 | 판교로 197번길 3-10 | 층층마루집 | [조진만건축사무소][009]{:target="_blank"} |  | 철근콘크리트 | N | [월간공간][009_1]{:target="_blank"} |
-| 서판교로 180번길 3-3 | 호연당 | [ATELIER17][010] | 서강건설주식회사 | 철근콘크리트 | N | [homify][010_1] |
-| 판교로 197번길 19 | 삼대헌 | [ISM건축][011] | | | N | [리빙센스][011_1] |
+| 서판교로 180번길 3-3 | 호연당 | [ATELIER17][010]{:target="_blank"} | 서강건설주식회사 | 철근콘크리트 | N | [homify][010_1]{:target="_blank"} |
+| 판교로 197번길 19 | 삼대헌 | [ISM건축][011]{:target="_blank"} | | | N | [리빙센스][011_1]{:target="_blank"} |
+| 서판교로 32번길 24 | TIMBER DUPLEX 1 | [민워크샵][012]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 중목 | Y | [homify][012_1]{:target="_blank"} |
 
+
+[012]: http://www.minworkshop.com/index.php?/timber-duplex/
+[012_1]: https://www.homify.co.kr/projects/161056/timber-duplex-1-1
 
 [011]: http://ism-architects.com/?fluxus_portfolio=sam-dae-heon
 [011_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1094&contents_id=23565
