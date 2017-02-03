@@ -12,18 +12,22 @@ tags: 판교 단독주택 설계사 시공사
 | 서판교로188번길 11 | 소소원 | [구가도시][002]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 경량목 | N | [전원속의 내집][002_2]{:target="_blank"} |
 | 판교로 198번길 3-9 | 함양재 | [구가도시][003]{:target="_blank"} | ? | ? | N | [시사인][003_1]{:target="_blank"} |
 | 서판교로 108번길 12 | 무이동 | [무이동][004]{:target="_blank"} | 하오스 | 철근콘크리트 | Y | [전원속의 내집][004_1]{:target="_blank"} |
+| 서판교로132번길 15-12 | AD Fontes | [TRU Architects][005]{:target="_blank"} | [de Archiis][005_1]{:target="_blank"} | 철근콘크리트 | N |  |
 
 
-[001]: http://www.o4aa.com/pk
-[001_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&attrId=&contents_id=130024&leafId=1433
-[001_2]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&attrId=&contents_id=130024&leafId=1433
+[005]: http://www.trugroup.co.kr/adfontes
+[005_1]: http://www.dearchiis.co.kr/bbs/board.php?bo_table=projects&wr_id=78
+
+[004]: http://www.johsungwook.com/index.php?/projects/pankyodong-543-3w-/
+[004_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=16445
+
+[003]: http://www.guga.co.kr/items/view/work/590
+[003_1]: http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=308&aid=0000009739
 
 [002]: http://www.guga.co.kr/items/view/work/945
 [002_1]: http://www.stuga.co.kr/
 [002_2]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=92203
 
-[003]: http://www.guga.co.kr/items/view/work/590
-[003_1]: http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=308&aid=0000009739
-
-[004]: http://www.johsungwook.com/index.php?/projects/pankyodong-543-3w-/
-[004_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=16445
+[001]: http://www.o4aa.com/pk
+[001_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&attrId=&contents_id=130024&leafId=1433
+[001_2]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&attrId=&contents_id=130024&leafId=1433
