@@ -20,7 +20,20 @@ tags: 판교 단독주택 설계사 시공사
 | 서판교로 180번길 3-3 | 호연당 | [ATELIER17][010]{:target="_blank"} | 서강건설주식회사 | 철근콘크리트 | N | [homify][010_1]{:target="_blank"} |
 | 판교로 197번길 19 | 삼대헌 | [ISM건축][011]{:target="_blank"} | | | N | [리빙센스][011_1]{:target="_blank"} |
 | 서판교로 32번길 24 | TIMBER DUPLEX 1 | [민워크샵][012]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 중목 | Y | [homify][012_1]{:target="_blank"} |
+| 운중로14번길 51 | POP House | [AnLStudio][013]{:target="_blank"} | 이든하임 | 경량목 | Y | [전원속의 내집][013_1]{:target="_blank"} |
+| 서판교로100번길 4-14 | 이보재 | [KDDH][014]{:target="_blank"} | [하우징플러스][014_1]{:target="_blank"} | 경량목 | N | [전원속의 내집][014_2]{:target="_blank"} |
+| 판교원로 311번길 16-9 | HESED | | | | Y | [우먼센스][015_1]{:target="_blank"}, [건축주 블로그][015_2]{:target="_blank"} |
 
+
+[015_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1089&contents_id=117754
+[015_2]: http://blog.naver.com/PostThumbnailList.nhn?blogId=rudaruda&from=postList&categoryNo=33
+
+[014]: http://kddh.kr/?page_id=11530
+[014_1]: http://www.housingplus.co.kr/home/bbs/board.php?bo_table=p1&wr_id=54&page=2&mNum=2&sNum=0&LNum=
+[014_2]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=24497
+
+[013]: http://anlstudio.com/db/3091
+[013_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=113993
 
 [012]: http://www.minworkshop.com/index.php?/timber-duplex/
 [012_1]: https://www.homify.co.kr/projects/161056/timber-duplex-1-1
