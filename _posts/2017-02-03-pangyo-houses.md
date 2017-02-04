@@ -15,7 +15,7 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | 서판교로 132번길 15-12 | AD Fontes | [TRU Architects][005]{:target="_blank"} | [de Archiis][005_1]{:target="_blank"} | 철근콘크리트 | N | [리빙센스][005_2]{:target="_blank"} |
 | 서판교로 180번길 9 | 동/서안재 | [호멘토][006]{:target="_blank"} | [호멘토][006]{:target="_blank"} | 경량목 | Y | [전원속의 내집][006_1]{:target="_blank"} |
 | 판교로 210번길 4-1 | 시전당 | [JHY건축사무소][007]{:target="_blank"} |  | 철근콘크리트 | N | [homify][007_1]{:target="_blank"} |
-| 판교로 210번길 18-4 | One Roof House | [MLNP Architects][008]{:target="_blank"} | [GIP][008_1]{:target="_blank"} | 경량목 | N | [homify][008_2]{:target="_blank"}, [동영상][008_3]{:target="_blank"}|
+| 판교로 210번길 18-4 | One Roof House | [MLNP Architects][008]{:target="_blank"} | [GIP][008_1]{:target="_blank"} | 경량목 | N | [homify][008_2]{:target="_blank"}, [동영상][008_3]{:target="_blank"}, [전원속의 내집][008_4]{:target="_blank"}|
 | 판교로 197번길 3-10 | 층층마루집 | [조진만건축사무소][009]{:target="_blank"} |  | 철근콘크리트 | N | [월간공간][009_1]{:target="_blank"} |
 | 서판교로 180번길 3-3 | 호연당 | [ATELIER17][010]{:target="_blank"} | 서강건설주식회사 | 철근콘크리트 | N | [homify][010_1]{:target="_blank"} |
 | 판교로 197번길 19 | 삼대헌 | [ISM건축][011]{:target="_blank"} | | | N | [리빙센스][011_1]{:target="_blank"} |
@@ -27,7 +27,32 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | 서판교로 74번길 6 | 사이집 | [조성욱건축사사무소][017]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철큰콘크리트 | Y | [블로그][017_2]{:target="_blank"}, [페이스북][017_3]{:target="_blank"} |
 | 판교원로 30번길 4 | 도시채 | [유타건축][018]{:target="_blank"} | JAIN | 경량목 | Y | [전원속의 내집][018_1]{:target="_blank"} |
 | 판교원로 299번길 3 | 흰벽돌집 | [건축사무소 공감][019] | | 철근콘크리트 | N | [전원속의 내집][019_1]{:target="_blank"} |
+| 산운로 32번길 30 | 계수나무집 | [솔토지빈건축사사무소][020] | S5 | 경량목 | N | [동아일보][020_1], [월간Space][020_2] |
+| 서판교로 118번길 7 | IZIP | [이재하건축사사무소][021] | | 철근콘크리트 | N | [CASA][021_1], [조선일보][021_2] |
+| 판교원로 299번길 6-5 | YELLOW WOOD HOUSE | [이진욱건축사사무소][022] | 효상건설 | 철근콘크리트 | N | [블로그][022_2], [건축명장][022_1] |
+| 서판교로 180번길 18-5 | 별똥집 | [SIE][023] | | 철근콘크리트 | N | [리빙센스][023_1], [월간Space][023_2] |
+| 판교로 209번길 49-3 | 우리내 집 | [아이디어5 건축사사무소][024] | [스튜가][002_1]{:target="_blank"} | 경량목 | N | [전원주택라이프][024_1], [동영상][024_2] |
 
+
+[024]: http://blog.daum.net/kyr824/584
+[024_1]: http://post.naver.com/viewer/postView.nhn?volumeNo=5542527&memberNo=24659848&vType=VERTICAL
+[024_2]: http://tv.naver.com/v/801002
+
+[023]: http://www.sie-jungsujin.com/p/portfolio_page/byeol-ddong-jib별똥집/
+[023_1]: http://www.smlounge.co.kr/living/article/26295
+[023_2]: http://www.vmspace.com/2008_re/kor/sub_emagazine_view.asp?category=architecture&idx=11970&pageNum=1
+
+[022]: http://leenhwang.com/archives/portfolio/판교_yellow-house
+[022_1]: http://masterbuilder.kr/portfolio/판교-l주택/
+[022_2]: http://blog.naver.com/leehwangarch/220802187352
+
+[021]: http://www.leejaeha.com
+[021_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1409&contents_id=20459
+[021_2]: http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=366&aid=0000110832
+
+[020]: http://soltos.kr/project/10
+[020_1]: http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=020&aid=0002558653
+[020_2]: http://www.vmspace.com/2008_re/kor/sub_emagazine_view.asp?category=architecture&idx=11827
 
 [019]: http://www.spacelap.co.kr/new/sub_03_01.html?include=&mode=view&id=1329&lc=1000000&sc=&mc=&gid=photo&
 [019_1]: http://www.uujj.co.kr/bbs/board.php?bo_table=house&wr_id=91
@@ -69,6 +94,7 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 [008_1]: https://www.ecocellhome.com
 [008_2]: https://www.homify.co.kr/ideabooks/245135/아이들의-추억속에-남을-집-판교-One-Roof-House
 [008_3]: https://www.youtube.com/watch?v=Se2tmSos3kE
+[008_4]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=101291
 
 [007]: http://jhyana.com/projects/view.php?prj_no=43
 [007_1]: https://www.homify.co.kr/ideabooks/22682/homify-360º-2대가-함께-만들어갈-따뜻한-집,-판교-시전당
