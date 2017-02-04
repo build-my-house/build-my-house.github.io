@@ -52,7 +52,14 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | 판교로210번길 16 | Parnell | [de Archiis][042]{:target="_blank"} | [de Archiis][042]{:target="_blank"} | 철근콘크리트 | N | [CASA][042_1]{:target="_blank"} |
 | 판교역로 28번길 10 | Heavenly | [이재하건축사사무소][043]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | N | [CASA][043_1]{:target="_blank"} |
 | 운중로 166번길 20-11 | Le Cube Blanc | 이순조, 이경은 |  [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | N | [CASA][044_1]{:target="_blank"} |
+| 판교로 210번길 88 | X+HOUSE | 마추건축 | 호수건설 | 철근콘크리트 | N | [주택저널][045_1]{:target="_blank"} |
+| 서판교로 132번길 15-7 | P House | [유토포건축사사무소][046]{:target="_blank"} | [이안알앤씨][046_1]{:target="_blank"} | 철근콘크리트 | Y | [주택저널][046_2]{:target="_blank"} |
 
+[046]: http://www.urbantopo.com/projects/architecture/p-house
+[046_1]: http://www.eanrnc.com/index.php?mid=works&category=431514#?mid=works&category=431514&document_srl=432942
+[046_2]: http://www.jutek.kr/user/selectBbsColumn.do?BBS_NUM=555&COD03_CODE=c0301&MEN02_NUM=28
+
+[045_1]: http://www.jutek.kr/user/selectBbsColumn.do?BBS_NUM=6891&COD03_CODE=c0301&MEN02_NUM=28
 
 [044_1]: http://www.casa.co.kr/brand/contents/view.do?articleNo=7466&pg=13&schCd=0101070101&depth=2
 
