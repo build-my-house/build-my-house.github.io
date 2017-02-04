@@ -42,6 +42,45 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | 판교원로 16번길 3 | I-HOUSE | [SIE][032]{:target="_blank"} | 사람중심 | 철근콘크리트 | N | [전원속의 내집][032_1]{:target="_blank"} |
 | 서판교로 108번길 14 | Odd Corner House | [민워크샵][033]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | N | [CASA][033_1]{:target="_blank"} |
 | 판교원로 299번길 6-6 | 판교 House | [JYA-rchitects][034]{:target="_blank"} | 위빌 | 철근콘크리트 | Y | [ArchDaily][034_1]{:target="_blank"} |
+| 운중로197번길 9 | 미소(美疏) 드리움 하우스 | [블루하우스코리아][016]{:target="_blank"} | [블루하우스코리아][016]{:target="_blank"} | 중목 | N | [전원속의 내집][035_1]{:target="_blank"} |
+| 판교로 197번길 18 | 판교동 주택 | [스페이스목금토][036]{:target="_blank"} | 모비덤 | 철근콘크리트 | N | [전원속의 내집][036_1]{:target="_blank"} |
+| 서판교로 44번길 18-15 | Casa de la jolla | [정재헌 건축가][037]{:target="_blank"} | | 철근콘크리트, 경량목 | N | [전원속의 내집][037_1]{:target="_blank"} |
+| 판교원로 287번길 4-6 | 판교50호 | [이집소][038]{:target="_blank"} | 이든하우스 | 경량목 | Y | [전원속의 내집][038_1]{:target="_blank"} |
+| 산운로 208번길 10-3 | Easy House | [TRU Architects][039]{:target="_blank"} | 나래건설 | 철근콘크리트 | N | [전원속의 내집][039_1]{:target="_blank"} |
+| 서판교로 188 | Patio House | [바우건축][040]{:target="_blank"} | 이오디자인 | 철근콘크리트 | N | [전원속의 내집][040_1]{:target="_blank"} |
+| 서판교로 74번길 13 | 하이안 | [건인 E&C][041]{:target="_blank"} | 르마누아 | 철근콘크리트 | N | [리빙센스][041_1]{:target="_blank"} |
+| 판교로210번길 16 | Parnell | [de Archiis][042]{:target="_blank"} | [de Archiis][042]{:target="_blank"} | 철근콘크리트 | N | [CASA][042_1]{:target="_blank"} |
+| 판교역로 28번길 10 | Heavenly | [이재하건축사사무소][043]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | N | [CASA][043_1]{:target="_blank"} |
+| 운중로 166번길 20-11 | Le Cube Blanc | 이순조, 이경은 |  [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | N | [CASA][044_1]{:target="_blank"} |
+
+
+[044_1]: http://www.casa.co.kr/brand/contents/view.do?articleNo=7466&pg=13&schCd=0101070101&depth=2
+
+[043]: http://www.leejaeha.com/work/works2013-1.html
+[043_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1409&contents_id=54618
+
+[042]: http://www.dearchiis.co.kr/bbs/board.php?bo_table=projects&wr_id=83
+[042_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1409&contents_id=83525
+
+[041]: http://www.kunin.co.kr/kunin/bbs/bbs/board.php?bo_table=architecture&wr_id=36&sca=&plimg=30680842_oDclCyPt_008.jpg
+[041_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1094&rid=&contents_id=66483
+
+[040]: http://www.bauarchitects.com/index.php?/architecture/patio-house-l/
+[040_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=36794
+
+[039]: http://www.trugroup.co.kr/easyhouse
+[039_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=49797
+
+[038]: http://cafe.naver.com/duplexhome
+[038_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=85039
+
+[037]: http://www.jeongjaeheon.com
+[037_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=103202
+
+[036]: http://www.spacemgt.co.kr
+[036_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=87413
+
+[035_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=122278
 
 [034]: http://jyarchitects.com/708
 [034_1]: http://www.archdaily.com/781435/pangyo-house-jya-rchitects
