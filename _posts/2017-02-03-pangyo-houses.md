@@ -41,7 +41,10 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | 서판교로 100번길 16 | 노란돌집 | [SIE][031]{:target="_blank"} | | 철근콘크리트 | N | [이코노믹리뷰][031_1]{:target="_blank"} |
 | 판교원로 16번길 3 | I-HOUSE | [SIE][032]{:target="_blank"} | 사람중심 | 철근콘크리트 | N | [전원속의 내집][032_1]{:target="_blank"} |
 | 서판교로 108번길 14 | Odd Corner House | [민워크샵][033]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | N | [CASA][033_1]{:target="_blank"} |
+| 판교원로 299번길 6-6 | 판교 House | [JYA-rchitects][034]{:target="_blank"} | 위빌 | 철근콘크리트 | Y | [ArchDaily][034_1]{:target="_blank"} |
 
+[034]: http://jyarchitects.com/708
+[034_1]: http://www.archdaily.com/781435/pangyo-house-jya-rchitects
 
 [033]: http://www.minworkshop.com/index.php?/odd-corner/
 [033_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1409&contents_id=18430
