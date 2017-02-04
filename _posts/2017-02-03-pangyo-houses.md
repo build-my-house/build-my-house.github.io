@@ -38,7 +38,19 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | 서판교로 108번길 3-6 | 반석헌 | [조성욱건축사사무소][028]{:target="_blank"} | [마고퍼스][028_1]{:target="_blank"} | 철근콘크리트 | Y | [리빙센스][028_2]{:target="_blank"} |
 | 서판교로 188번길 10 | 오목한집 | [민워크샵][029]{:target="_blank"} | | 철근콘크리트 | Y | [월간Space][029_1]{:target="_blank"} |
 | 서판교로 58번길 7 | e블레시움 저에너지하우스 | [노드플랜][030]{:target="_blank"} | [풍산우드홈][030_1]{:target="_blank"} | 경량목 | N | [건축명장][030_2]{:target="_blank"} |
+| 서판교로 100번길 16 | 노란돌집 | [SIE][031]{:target="_blank"} | | 철근콘크리트 | N | [이코노믹리뷰][031_1]{:target="_blank"} |
+| 판교원로 16번길 3 | I-HOUSE | [SIE][032]{:target="_blank"} | 사람중심 | 철근콘크리트 | N | [전원속의 내집][032_1]{:target="_blank"} |
+| 서판교로 108번길 14 | Odd Corner House | [민워크샵][033]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | N | [CASA][033_1]{:target="_blank"} |
 
+
+[033]: http://www.minworkshop.com/index.php?/odd-corner/
+[033_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1409&contents_id=18430
+
+[032]: http://www.sie-jungsujin.com/p/portfolio_page/i-house이-집-ver02/
+[032_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=108161
+
+[031]: http://www.sie-jungsujin.com/p/portfolio_page/yellow-stone-house노란돌집/
+[031_1]: http://www.econovill.com/archives/42585
 
 [030]: http://www.nodeplan.com/?sd=2&sc=2_1_2&gyear=2014&wnum=109&page=1
 [030_1]: http://www.woodhomes.co.kr/bbs/board.php?bo_table=04_000_06&wr_id=1
