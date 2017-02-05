@@ -68,8 +68,17 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | 판교원로 14번길 2 | Scale-ing House | [조호건축][058]{:target="_blank"} | | 철근콘크리트 | N | [homify][058_1]{:target="_blank"}, [블로그][058_2]{:target="_blank"} |
 | 운중로 166번길 20-26 | 기숙사(奇淑思) | [유타건축][059]{:target="_blank"} | [시스홈 씨엔엘][059_1]{:target="_blank"} | 경량목 | N | [리빙센스][059_2]{:target="_blank"} |
 | 서판교로 188번길 12-1 | 고동이네 | [솔토지빈건축사사무소][060]{:target="_blank"} | [시스홈 씨엔엘][060_1]{:target="_blank"} | 경량목 | Y | [건축명장][060_2]{:target="_blank"}, [건축주 블로그][060_3]{:target="_blank"} | 
-| 판교로 156번길 4-2| 손톱집 | [경영위치][061]{:target="_blank"} | [이안알앤씨][061_1]{:target="_blank"} | 철근콘크리트 | N | [월간Space][061_2]{:target="_blank"} |
+| 판교로 156번길 4-2 | 손톱집 | [경영위치][061]{:target="_blank"} | [이안알앤씨][061_1]{:target="_blank"} | 철근콘크리트 | N | [월간Space][061_2]{:target="_blank"} |
+| 서판교로 66번길 13-7 | 하늘집 | [SIE][062]{:target="_blank"} | 나래건설 | 철근콘크리트 | N | [시사인][062_1]{:target="_blank"}, [블로그][062_2]{:target="_blank"} |
+| 판교원로 303 | The Float | [조성욱건축사사무소][063]{:target="_blank"} | JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | Y | [매일경제][063_1]{:target="_blank"}, [건축명장][063_2]{:target="_blank"} |
 
+[063]: http://www.johsungwook.com/index.php?/projects/pangyodong-residence-645-8/
+[063_1]: http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=009&aid=0003772083
+[063_2]: http://masterbuilder.kr/portfolio/더-플로트/
+
+[062]: http://www.sie-jungsujin.com/p/portfolio_page/spring-house하늘집/
+[062_1]: http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=308&aid=0000008582
+[062_2]: http://my5chul.blog.me/60150453393
 
 [061]: http://kywc.com/portfolio/pangyo-h-residence/
 [061_1]: http://www.eanrnc.com
