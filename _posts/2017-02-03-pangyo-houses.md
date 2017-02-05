@@ -67,7 +67,12 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | 산운로 208번길 39 | P HOUSE | EAST4 | | 철근콘크리트 | N | [월간Space][057_1]{:target="_blank"}, [MasilWIDE][057_2]{:target="_blank"} |
 | 판교원로 14번길 2 | Scale-ing House | [조호건축][058]{:target="_blank"} | | 철근콘크리트 | N | [homify][058_1]{:target="_blank"}, [블로그][058_2]{:target="_blank"} |
 | 운중로 166번길 20-26 | 기숙사(奇淑思) | [유타건축][059]{:target="_blank"} | [시스홈 씨엔엘][059_1]{:target="_blank"} | 경량목 | N | [리빙센스][059_2]{:target="_blank"} |
+| 서판교로 188번길 12-1 | 고동이네 | [솔토지빈건축사사무소][060]{:target="_blank"} | [시스홈 씨엔엘][060_1]{:target="_blank"} | 경량목 | Y | [건축명장][060_2]{:target="_blank"}, [건축주 블로그][060_3]{:target="_blank"} | 
 
+[060]: http://soltos.kr
+[060_1]: http://hausstyle.co.kr/wp/주-시스홈씨엔엘
+[060_2]: http://masterbuilder.kr/portfolio/판교동-단독주택/
+[060_3]: http://godong.tistory.com/category/집짓기/%5B2014%5D판교고동이네
 
 [059]: http://www.utaa.co.kr/works.html?year=2016&idx=119&
 [059_1]: https://story.kakao.com/ch/syshome/F9AutfYl4b0
