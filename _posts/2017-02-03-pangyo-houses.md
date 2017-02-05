@@ -71,6 +71,15 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | 판교로 156번길 4-2 | 손톱집 | [경영위치][061]{:target="_blank"} | [이안알앤씨][061_1]{:target="_blank"} | 철근콘크리트 | N | [월간Space][061_2]{:target="_blank"} |
 | 서판교로 66번길 13-7 | 하늘집 | [SIE][062]{:target="_blank"} | 나래건설 | 철근콘크리트 | N | [시사인][062_1]{:target="_blank"}, [블로그][062_2]{:target="_blank"} |
 | 판교원로 303 | The Float | [조성욱건축사사무소][063]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | Y | [매일경제][063_1]{:target="_blank"}, [건축명장][063_2]{:target="_blank"} |
+| 서판교로 108번길 6 | 파이림(π-林) | [조성욱건축사사무소][064]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | Y | [리빙센스][064_1]{:target="_blank"} |
+| 판교로 209번길 47 | 캥거루집 | [디자인초록][065]{:target="_blank"} | [준성건축][065_1]{:target="_blank"} | 철근콘크리트 | Y | [리빙센스][065_2]{:target="_blank"} |
+
+[065]: http://blog.naver.com/want38
+[065_1]: http://www.jscons.co.kr/bbs/board.php?bo_table=menu3_02&wr_id=11
+[065_2]: http://navercast.naver.com/magazine_contents.nhn?rid=1094&contents_id=126499
+
+[064]: http://www.johsungwook.com/index.php?/projects/pangyo-superduplex/
+[064_1]: http://www.smlounge.co.kr/living/article/33199
 
 [063]: http://www.johsungwook.com/index.php?/projects/pangyodong-residence-645-8/
 [063_1]: http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=009&aid=0003772083
