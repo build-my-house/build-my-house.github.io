@@ -63,7 +63,15 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | 판교로 197번길 3-6 | | [타니가와][053]{:target="_blank"} | [타니가와][053]{:target="_blank"} | 중목 | N | [전원속의 내집][053_1]{:target="_blank"} |
 | 판교원로 286번길 37 | 영은재 | [de Archiis][054]{:target="_blank"} | [de Archiis][054]{:target="_blank"} | 철근콘크리트 | N | [CASA][054_1]{:target="_blank"} |
 | 판교로 210번길 12-8 | Table Spoon | [de Archiis][055]{:target="_blank"} | [de Archiis][055]{:target="_blank"} | 철근콘크리트 | N | [CASA][055_1]{:target="_blank"} |
+| 산운로 170번길 3-1 | 기운생동 | [경영위치][056]{:target="_blank"} | [이안알앤씨][056_1]{:target="_blank"}  | 철근콘크리트 | N | [전원주택 라이프][056_2]{:target="_blank"} |
+| 산운로 208번길 39 | P HOUSE | EAST4 | | 철근콘크리트 | N | [월간Space][057_1]{:target="_blank"}, [MasilWIDE][057_2]{:target="_blank"} |
 
+[057_1]: http://www.vmspace.com/2008_re/kor/sub_emagazine_view.asp?category=architecture&idx=11462&pageNum=1
+[057_2]: http://masilwide.com/p-house/
+
+[056]: http://kywc.com/portfolio/pangyo-l-residence/
+[056_1]: http://www.eanrnc.com
+[056_2]: http://m.post.naver.com/viewer/postView.nhn?volumeNo=5265815&memberNo=24659848&vType=VERTICAL
 
 [055]: http://www.dearchiis.co.kr/bbs/board.php?bo_table=projects&wr_id=87
 [055_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1409&contents_id=109715
