@@ -56,11 +56,15 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | 서판교로 132번길 15-7 | P House | [유토포건축사사무소][046]{:target="_blank"} | [이안알앤씨][046_1]{:target="_blank"} | 철근콘크리트 | Y | [주택저널][046_2]{:target="_blank"} |
 | 서판교로32번길 19-6 | Wall House | [운생동][047]{:target="_blank"} | 리원건설 | 철근콘크리트 | N | [행복이 가득한집][047_1]{:target="_blank"}, [월간Space][047_2]{:target="_blank"}  |
 | 판교로 210번길 12-2 | Maison Ciel | [ISM건축][048]{:target="_blank"} | | 철근콘크리트 | N | [행복이 가득한집][048_1]{:target="_blank"} |
-| 서판교로 66번길 19 | 큐브 하우스 | [경영위치][049]{:target="_blank"} | | 철근콘크리트 | N | [행복이 가득한집][049_1]{:target="_blank"} |
+| 서판교로 66번길 19 | 큐브 하우스 | [경영위치][049]{:target="_blank"} | | 철근콘크리트 | N | [행복이 가득한집][049_1]{:target="_blank"},[월간Space][049_2]{:target="_blank"} |
+| 판교역로 34 | 캥거루하우스 | [유현준건축사사무소][050]{:target="_blank"} | 삼대건설 | 철근콘크리트 | N | [월간Space][050_1]{:target="_blank"} |
 
+[050]: http://www.hyunjoonyoo.com/projects/projects01.php
+[050_1]: http://www.vmspace.com/2008_re/kor/sub_emagazine_view.asp?category=architecture&idx=12002
 
 [049]: http://kywc.com/portfolio/pangyo-y-residence/
 [049_1]: http://happy.designhouse.co.kr/magazine/magazine_view?info_id=56335
+[049_2]: http://www.vmspace.com/2008_re/kor/sub_emagazine_view.asp?category=people&idx=11682
 
 [048]: http://ism-architects.com/?fluxus_portfolio=maison-ciel
 [048_1]: http://happy.designhouse.co.kr/magazine/magazine_view?info_id=69499
