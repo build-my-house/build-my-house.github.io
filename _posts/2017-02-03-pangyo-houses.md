@@ -65,6 +65,17 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | 판교로 210번길 12-8 | Table Spoon | [de Archiis][055]{:target="_blank"} | [de Archiis][055]{:target="_blank"} | 철근콘크리트 | N | [CASA][055_1]{:target="_blank"} |
 | 산운로 170번길 3-1 | 기운생동 | [경영위치][056]{:target="_blank"} | [이안알앤씨][056_1]{:target="_blank"}  | 철근콘크리트 | N | [전원주택 라이프][056_2]{:target="_blank"} |
 | 산운로 208번길 39 | P HOUSE | EAST4 | | 철근콘크리트 | N | [월간Space][057_1]{:target="_blank"}, [MasilWIDE][057_2]{:target="_blank"} |
+| 판교원로 14번길 2 | Scale-ing House | [조호건축][058]{:target="_blank"} | | 철근콘크리트 | N | [homify][058_1]{:target="_blank"}, [블로그][058_2]{:target="_blank"} |
+| 운중로 166번길 20-26 | 기숙사(奇淑思) | [유타건축][059]{:target="_blank"} | [시스홈 씨엔엘][059_1]{:target="_blank"} | 경량목 | N | [리빙센스][059_2]{:target="_blank"} |
+
+
+[059]: http://www.utaa.co.kr/works.html?year=2016&idx=119&
+[059_1]: https://story.kakao.com/ch/syshome/F9AutfYl4b0
+[059_2]: http://navercast.naver.com/magazine_contents.nhn?rid=1094&contents_id=127763
+
+[058]: http://johoarchitecture.com
+[058_1]: https://www.homify.co.kr/ideabooks/33096/homify360˚-:-아이디어가-돋보이는-집,-판교-스케일링-하우스
+[058_2]: http://danyulkim.blog.me/220152174060
 
 [057_1]: http://www.vmspace.com/2008_re/kor/sub_emagazine_view.asp?category=architecture&idx=11462&pageNum=1
 [057_2]: http://masilwide.com/p-house/
