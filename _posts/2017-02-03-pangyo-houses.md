@@ -58,6 +58,19 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | 판교로 210번길 12-2 | Maison Ciel | [ISM건축][048]{:target="_blank"} | | 철근콘크리트 | N | [행복이 가득한집][048_1]{:target="_blank"} |
 | 서판교로 66번길 19 | 큐브 하우스 | [경영위치][049]{:target="_blank"} | | 철근콘크리트 | N | [행복이 가득한집][049_1]{:target="_blank"},[월간Space][049_2]{:target="_blank"} |
 | 판교역로 34 | 캥거루하우스 | [유현준건축사사무소][050]{:target="_blank"} | 삼대건설 | 철근콘크리트 | N | [월간Space][050_1]{:target="_blank"} |
+| 판교로209번길 9 | | [예주홈플랜][051]{:target="_blank"} | [예주홈플랜][051]{:target="_blank"} | 경량목 | N | [전원속의 내집][051_1]{:target="_blank"} |
+| 서판교로 44번길 29-3 | | [타니가와][052]{:target="_blank"} | [타니가와][052]{:target="_blank"} | 경량목 | N | [전원속의 내집][052_1]{:target="_blank"} |
+| 판교로197번길 3-6 | | [타니가와][053]{:target="_blank"} | [타니가와][053]{:target="_blank"} | 중목 | N | [전원속의 내집][053_1]{:target="_blank"} |
+
+
+[053]: http://tg-k.co.kr/showroom/modelhouse_view_korea_pangyo9.asp#ad-image-0
+[053_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=118449
+
+[052]: http://tg-k.co.kr/showroom/modelhouse_view_korea_pangyo3.asp#ad-image-9
+[052_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=27064
+
+[051]: http://www.yejuhomeplan.com/bbs/bbs/board.php?bo_table=contractors_all1&wr_id=41&sca=6070
+[051_1]: http://www.uujj.co.kr/bbs/board.php?bo_table=house&wr_id=62&sfl=wr_subject%7C%7Cwr_content&stx=판교&sop=and&page=2
 
 [050]: http://www.hyunjoonyoo.com/projects/projects01.php
 [050_1]: http://www.vmspace.com/2008_re/kor/sub_emagazine_view.asp?category=architecture&idx=12002
