@@ -54,9 +54,10 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | 운중로 166번길 20-11 | Le Cube Blanc | 이순조, 이경은 |  [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | N | [CASA][044_1]{:target="_blank"} |
 | 판교로 210번길 88 | X+HOUSE | 마추건축 | 호수건설 | 철근콘크리트 | N | [주택저널][045_1]{:target="_blank"} |
 | 서판교로 132번길 15-7 | P House | [유토포건축사사무소][046]{:target="_blank"} | [이안알앤씨][046_1]{:target="_blank"} | 철근콘크리트 | Y | [주택저널][046_2]{:target="_blank"} |
-| 서판교로32번길 19-6 | Wall House | [운생동][047]{:target="_blank"} | | 철근콘크리트 | N | [행복이 가득한집][047_1]{:target="_blank"} |
+| 서판교로32번길 19-6 | Wall House | [운생동][047]{:target="_blank"} | 리원건설 | 철근콘크리트 | N | [행복이 가득한집][047_1]{:target="_blank"}, [월간Space][047_2]{:target="_blank"}  |
 | 판교로 210번길 12-2 | Maison Ciel | [ISM건축][048]{:target="_blank"} | | 철근콘크리트 | N | [행복이 가득한집][048_1]{:target="_blank"} |
 | 서판교로 66번길 19 | 큐브 하우스 | [경영위치][049]{:target="_blank"} | | 철근콘크리트 | N | [행복이 가득한집][049_1]{:target="_blank"} |
+
 
 [049]: http://kywc.com/portfolio/pangyo-y-residence/
 [049_1]: http://happy.designhouse.co.kr/magazine/magazine_view?info_id=56335
@@ -66,6 +67,7 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 
 [047]: http://www.usdspace.com/
 [047_1]: http://happy.designhouse.co.kr/magazine/magazine_view?info_id=75991
+[047_2]: http://www.vmspace.com/2008_re/kor/sub_emagazine_view.asp?category=architecture&idx=12169
 
 [046]: http://www.urbantopo.com/projects/architecture/p-house
 [046_1]: http://www.eanrnc.com/index.php?mid=works&category=431514#?mid=works&category=431514&document_srl=432942
