@@ -37,7 +37,7 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | 서판교로 66번길 3-3 | LIFE_FACTORY; 間 | [남기봉건축사사무소][027]{:target="_blank"} | 사람중심 | 철근콘크리트 | N | [건설경제신문][027_1]{:target="_blank"} |
 | 서판교로 108번길 3-6 | 반석헌 | [조성욱건축사사무소][028]{:target="_blank"} | [마고퍼스][028_1]{:target="_blank"} | 철근콘크리트 | Y | [리빙센스][028_2]{:target="_blank"} |
 | 서판교로 188번길 10 | 오목한집 | [민워크샵][029]{:target="_blank"} | | 철근콘크리트 | Y | [월간Space][029_1]{:target="_blank"} |
-| 서판교로 58번길 7 | e블레시움 저에너지하우스 | [노드플랜][030]{:target="_blank"} | [풍산우드홈][030_1]{:target="_blank"} | 경량목 | N | [건축명장][030_2]{:target="_blank"} |
+| 서판교로 58번길 7 | e블레시움 저에너지하우스 | [노드플랜][030]{:target="_blank"} | [풍산우드홈][030_1]{:target="_blank"} | 경량목 | N | [건축명장][030_2]{:target="_blank"}, [행복이 가득한집][030_3]{:target="_blank"} |
 | 서판교로 100번길 16 | 노란돌집 | [SIE][031]{:target="_blank"} | | 철근콘크리트 | N | [이코노믹리뷰][031_1]{:target="_blank"} |
 | 판교원로 16번길 3 | I-HOUSE | [SIE][032]{:target="_blank"} | 사람중심 | 철근콘크리트 | N | [전원속의 내집][032_1]{:target="_blank"} |
 | 서판교로 108번길 14 | Odd Corner House | [민워크샵][033]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | N | [CASA][033_1]{:target="_blank"} |
@@ -54,6 +54,18 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | 운중로 166번길 20-11 | Le Cube Blanc | 이순조, 이경은 |  [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | N | [CASA][044_1]{:target="_blank"} |
 | 판교로 210번길 88 | X+HOUSE | 마추건축 | 호수건설 | 철근콘크리트 | N | [주택저널][045_1]{:target="_blank"} |
 | 서판교로 132번길 15-7 | P House | [유토포건축사사무소][046]{:target="_blank"} | [이안알앤씨][046_1]{:target="_blank"} | 철근콘크리트 | Y | [주택저널][046_2]{:target="_blank"} |
+| 서판교로32번길 19-6 | Wall House | [운생동][047]{:target="_blank"} | | 철근콘크리트 | N | [행복이 가득한집][047_1]{:target="_blank"} |
+| 판교로 210번길 12-2 | Maison Ciel | [ISM건축][048]{:target="_blank"} | | 철근콘크리트 | N | [행복이 가득한집][048_1]{:target="_blank"} |
+| 서판교로 66번길 19 | 큐브 하우스 | [경영위치][049]{:target="_blank"} | | 철근콘크리트 | N | [행복이 가득한집][049_1]{:target="_blank"} |
+
+[049]: http://kywc.com/portfolio/pangyo-y-residence/
+[049_1]: http://happy.designhouse.co.kr/magazine/magazine_view?info_id=56335
+
+[048]: http://ism-architects.com/?fluxus_portfolio=maison-ciel
+[048_1]: http://happy.designhouse.co.kr/magazine/magazine_view?info_id=69499
+
+[047]: http://www.usdspace.com/
+[047_1]: http://happy.designhouse.co.kr/magazine/magazine_view?info_id=75991
 
 [046]: http://www.urbantopo.com/projects/architecture/p-house
 [046_1]: http://www.eanrnc.com/index.php?mid=works&category=431514#?mid=works&category=431514&document_srl=432942
@@ -104,6 +116,7 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 [030]: http://www.nodeplan.com/?sd=2&sc=2_1_2&gyear=2014&wnum=109&page=1
 [030_1]: http://www.woodhomes.co.kr/bbs/board.php?bo_table=04_000_06&wr_id=1
 [030_2]: http://masterbuilder.kr/portfolio/e블레시움-판교-저에너지하우스/
+[030_3]: http://happy.designhouse.co.kr/magazine/magazine_view?info_id=68955
 
 [029]: http://www.minworkshop.com/index.php?/sunlight-house/
 [029_1]: http://www.vmspace.com/2008_re/kor/sub_emagazine_view.asp?category=architecture&idx=11985&pageNum=1
