@@ -60,8 +60,12 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | 판교역로 34 | 캥거루하우스 | [유현준건축사사무소][050]{:target="_blank"} | 삼대건설 | 철근콘크리트 | N | [월간Space][050_1]{:target="_blank"} |
 | 판교로209번길 9 | | [예주홈플랜][051]{:target="_blank"} | [예주홈플랜][051]{:target="_blank"} | 경량목 | N | [전원속의 내집][051_1]{:target="_blank"} |
 | 서판교로 44번길 29-3 | | [타니가와][052]{:target="_blank"} | [타니가와][052]{:target="_blank"} | 경량목 | N | [전원속의 내집][052_1]{:target="_blank"} |
-| 판교로197번길 3-6 | | [타니가와][053]{:target="_blank"} | [타니가와][053]{:target="_blank"} | 중목 | N | [전원속의 내집][053_1]{:target="_blank"} |
+| 판교로 197번길 3-6 | | [타니가와][053]{:target="_blank"} | [타니가와][053]{:target="_blank"} | 중목 | N | [전원속의 내집][053_1]{:target="_blank"} |
+| 판교원로 286번길 37 | 영은재 | [de Archiis][054]{:target="_blank"} | [de Archiis][054]{:target="_blank"} | 철근콘크리트 | N | [CASA][054_1]{:target="_blank"} |
 
+
+[054]: http://www.dearchiis.co.kr/bbs/board.php?bo_table=projects&wr_id=73
+[054_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1409&contents_id=54646
 
 [053]: http://tg-k.co.kr/showroom/modelhouse_view_korea_pangyo9.asp#ad-image-0
 [053_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=118449
