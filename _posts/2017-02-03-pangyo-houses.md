@@ -307,4 +307,4 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 
 [001]: http://www.o4aa.com/pk
 [001_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&attrId=&contents_id=130024&leafId=1433
-[001_2]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&attrId=&contents_id=130024&leafId=1433
+[001_2]: http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=004&oid=469&aid=0000176335
