@@ -77,9 +77,9 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | <!--운중로 166번길 27-12-->[공원집](http://naver.me/G4AbFiet){:target="_blank"} | [정재헌 건축가][067]{:target="_blank"} | | RC | N | [월간Space][067_1]{:target="_blank"} |
 | <!--판교원로 295-->[7˚House](http://naver.me/xIE4yzeh){:target="_blank"} | 권혁천 | | | N | [CASA][068_1]{:target="_blank"}, [행복이 가득한집][068_2]{:target="_blank"} |
 | <!--판교로 209번길 15-->[온유재](http://naver.me/GM6KIqej){:target="_blank"} | [건축사사무소 공장][069]{:target="_blank"} | | RC | N | [건설경제신문][069_1]{:target="_blank"} |
-| <!--산운로 56번길 4-->[안단테 칸타빌레](http://naver.me/GbmdWbix) | [유하우스][070]{:target="_blank"} | [유하우스][070]{:target="_blank"} | RC | N | [건설경제신문][070_1]{:target="_blank"} |
-| <!--판교원로 311번길 15-->[가족의 꿈이 자라는 집](http://naver.me/GmwjmeeH) | [토우재][071] | | RC | N | [주택저널][071_1] |
-| <!--판교역로 28번길 14-->[L.K. House](http://naver.me/xo2z3xRa) | [토우재][071] | (주)예성인 | RC | N | [주택저널][072_1] |
+| <!--산운로 56번길 4-->[안단테 칸타빌레](http://naver.me/GbmdWbix){:target="_blank"} | [유하우스][070]{:target="_blank"} | [유하우스][070]{:target="_blank"} | RC | N | [건설경제신문][070_1]{:target="_blank"} |
+| <!--판교원로 311번길 15-->[가족의 꿈이 자라는 집](http://naver.me/GmwjmeeH){:target="_blank"} | [토우재][071]{:target="_blank"} | | RC | N | [주택저널][071_1]{:target="_blank"} |
+| <!--판교역로 28번길 14-->[L.K. House](http://naver.me/xo2z3xRa){:target="_blank"} | [토우재][071]{:target="_blank"} | (주)예성인 | RC | N | [주택저널][072_1]{:target="_blank"} |
 
 
 [072_1]: http://www.jutek.kr/user/selectBbsColumn.do?BBS_NUM=287&COD03_CODE=c0301&MEN02_NUM=28&pageNum=8
