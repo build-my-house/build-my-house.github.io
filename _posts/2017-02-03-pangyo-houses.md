@@ -6,76 +6,76 @@ categories: 자료
 tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉스
 ---
 
-| 주소 | 이름  | 설계  | 시공   | 구조  | 듀플렉스 | 링크 |
-| - | - | - | - | - | :-: | - |
-| <!--판교로 197번길 8-2-->[지도](http://naver.me/FbQUMDp2){:target="_blank"} | 온당 | [ofaa][001]{:target="_blank"} | 이든하임 | 경량목 | Y | [전원속의 내집][001_1]{:target="_blank"}, [한국일보][001_2]{:target="_blank"}  |
-| <!--서판교로 188번길 11-->[지도](http://naver.me/xVHc8rcA){:target="_blank"} | 소소원 | [구가도시][002]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 경량목 | N | [전원속의 내집][002_2]{:target="_blank"} |
-| <!--판교로 198번길 3-9-->[지도](http://naver.me/5LUhqGgS){:target="_blank"} | 함양재 | [구가도시][003]{:target="_blank"} |  |  | N | [시사인][003_1]{:target="_blank"} |
-| <!--서판교로 108번길 12-->[지도](http://naver.me/F1lYWfAl){:target="_blank"} | 무이동 | [조성욱건축사사무소][004]{:target="_blank"} | 하오스 | 철근콘크리트 | Y | [전원속의 내집][004_1]{:target="_blank"} |
-| 서판교로 132번길 15-12 | AD Fontes | [TRU Architects][005]{:target="_blank"} | [de Archiis][005_1]{:target="_blank"} | 철근콘크리트 | N | [리빙센스][005_2]{:target="_blank"} |
-| 서판교로 180번길 9 | 동/서안재 | [호멘토][006]{:target="_blank"} | [호멘토][006]{:target="_blank"} | 경량목 | Y | [전원속의 내집][006_1]{:target="_blank"} |
-| 판교로 210번길 4-1 | 시전당 | [JHY건축사무소][007]{:target="_blank"} |  | 철근콘크리트 | N | [homify][007_1]{:target="_blank"} |
-| 판교로 210번길 18-4 | One Roof House | [MLNP Architects][008]{:target="_blank"} | [GIP][008_1]{:target="_blank"} | 경량목 | N | [homify][008_2]{:target="_blank"}, [동영상][008_3]{:target="_blank"}, [전원속의 내집][008_4]{:target="_blank"}|
-| 판교로 197번길 3-10 | 층층마루집 | [조진만건축사무소][009]{:target="_blank"} |  | 철근콘크리트 | N | [월간공간][009_1]{:target="_blank"} |
-| 서판교로 180번길 3-3 | 호연당 | [ATELIER17][010]{:target="_blank"} | 서강건설주식회사 | 철근콘크리트 | N | [homify][010_1]{:target="_blank"} |
-| 판교로 197번길 19 | 삼대헌 | [ISM건축][011]{:target="_blank"} | | | N | [리빙센스][011_1]{:target="_blank"} |
-| 서판교로 32번길 24 | TIMBER DUPLEX 1 | [민워크샵][012]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 중목 | Y | [homify][012_1]{:target="_blank"} |
-| 운중로 14번길 51 | POP House | [AnLStudio][013]{:target="_blank"} | 이든하임 | 경량목 | Y | [전원속의 내집][013_1]{:target="_blank"} |
-| 서판교로 100번길 4-14 | 이보재 | [KDDH][014]{:target="_blank"} | [하우징플러스][014_1]{:target="_blank"} | 경량목 | N | [전원속의 내집][014_2]{:target="_blank"} |
-| 판교원로 311번길 16-9 | HESED | | | | Y | [우먼센스][015_1]{:target="_blank"}, [건축주 블로그][015_2]{:target="_blank"} |
-| 서판교로 74번길 10 | 동행 | [블루하우스코리아][016]{:target="_blank"} | [블루하우스코리아][016]{:target="_blank"} | 중목 | Y | [리빙센스][016_1] |
-| 서판교로 74번길 6 | 사이집 | [조성욱건축사사무소][017]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철큰콘크리트 | Y | [블로그][017_2]{:target="_blank"}, [페이스북][017_3]{:target="_blank"} |
-| 판교원로 30번길 4 | 도시채 | [유타건축][018]{:target="_blank"} | JAIN | 경량목 | Y | [전원속의 내집][018_1]{:target="_blank"} |
-| 판교원로 299번길 3 | 흰벽돌집 | [건축사무소 공감][019]{:target="_blank"} | | 철근콘크리트 | N | [전원속의 내집][019_1]{:target="_blank"} |
-| 산운로 32번길 30 | 계수나무집 | [솔토지빈건축사사무소][020]{:target="_blank"} | S5 | 경량목 | N | [동아일보][020_1]{:target="_blank"}, [월간Space][020_2]{:target="_blank"} |
-| 서판교로 118번길 7 | IZIP | [이재하건축사사무소][021]{:target="_blank"} | | 철근콘크리트 | N | [CASA][021_1]{:target="_blank"}, [조선일보][021_2]{:target="_blank"} |
-| 판교원로 299번길 6-5 | YELLOW WOOD HOUSE | [이진욱건축사사무소][022]{:target="_blank"} | 효상건설 | 철근콘크리트 | N | [블로그][022_2]{:target="_blank"}, [건축명장][022_1]{:target="_blank"} |
-| 서판교로 180번길 18-5 | 별똥집 | [SIE][023]{:target="_blank"} | | 철근콘크리트 | N | [리빙센스][023_1]{:target="_blank"}, [월간Space][023_2]{:target="_blank"} |
-| 판교로 209번길 49-3 | 우리내 집 | [아이디어5 건축사사무소][024]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 경량목 | N | [전원주택라이프][024_1]{:target="_blank"}, [동영상][024_2]{:target="_blank"}, [건축명장][024_3]{:target="_blank"} |
-| 판교로 197번길 7 | 스킵플로어 하우스 | [마고퍼스][025]{:target="_blank"} | [마고퍼스][025]{:target="_blank"} | 경량목 | N | [전원속의 내집][025_1]{:target="_blank"} |
-| 운중로 14번길 5-5 | ㄱㅁ주택 | [와이즈건축][026]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | N | [전원속의 내집][026_1]{:target="_blank"} |
-| 서판교로 66번길 3-3 | LIFE_FACTORY; 間 | [남기봉건축사사무소][027]{:target="_blank"} | 사람중심 | 철근콘크리트 | N | [건설경제신문][027_1]{:target="_blank"} |
-| 서판교로 108번길 3-6 | 반석헌 | [조성욱건축사사무소][028]{:target="_blank"} | [마고퍼스][028_1]{:target="_blank"} | 철근콘크리트 | Y | [리빙센스][028_2]{:target="_blank"} |
-| 서판교로 188번길 10 | 오목한집 | [민워크샵][029]{:target="_blank"} | | 철근콘크리트 | Y | [월간Space][029_1]{:target="_blank"} |
-| 서판교로 58번길 7 | e블레시움 저에너지하우스 | [노드플랜][030]{:target="_blank"} | [풍산우드홈][030_1]{:target="_blank"} | 경량목 | N | [건축명장][030_2]{:target="_blank"}, [행복이 가득한집][030_3]{:target="_blank"} |
-| 서판교로 100번길 16 | 노란돌집 | [SIE][031]{:target="_blank"} | | 철근콘크리트 | N | [이코노믹리뷰][031_1]{:target="_blank"} |
-| 판교원로 16번길 3 | I-HOUSE | [SIE][032]{:target="_blank"} | 사람중심 | 철근콘크리트 | N | [전원속의 내집][032_1]{:target="_blank"} |
-| 서판교로 108번길 14 | Odd Corner House | [민워크샵][033]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | N | [CASA][033_1]{:target="_blank"} |
-| 판교원로 299번길 6-6 | 판교 House | [JYA-rchitects][034]{:target="_blank"} | 위빌 | 철근콘크리트 | Y | [ArchDaily][034_1]{:target="_blank"} |
-| 운중로197번길 9 | 미소(美疏) 드리움 하우스 | [블루하우스코리아][016]{:target="_blank"} | [블루하우스코리아][016]{:target="_blank"} | 중목 | N | [전원속의 내집][035_1]{:target="_blank"} |
-| 판교로 197번길 18 | 판교동 주택 | [스페이스목금토][036]{:target="_blank"} | 모비덤 | 철근콘크리트 | N | [전원속의 내집][036_1]{:target="_blank"} |
-| 서판교로 44번길 18-15 | Casa de la jolla | [정재헌 건축가][037]{:target="_blank"} | | 철근콘크리트, 경량목 | N | [전원속의 내집][037_1]{:target="_blank"} |
-| 판교원로 287번길 4-6 | 판교50호 | [이집소][038]{:target="_blank"} | 이든하우스 | 경량목 | Y | [전원속의 내집][038_1]{:target="_blank"} |
-| 산운로 208번길 10-3 | Easy House | [TRU Architects][039]{:target="_blank"} | 나래건설 | 철근콘크리트 | N | [전원속의 내집][039_1]{:target="_blank"} |
-| 서판교로 188 | Patio House | [바우건축][040]{:target="_blank"} | 이오디자인 | 철근콘크리트 | N | [전원속의 내집][040_1]{:target="_blank"} |
-| 서판교로 74번길 13 | 하이안 | [건인 E&C][041]{:target="_blank"} | 르마누아 | 철근콘크리트 | N | [리빙센스][041_1]{:target="_blank"} |
-| 판교로210번길 16 | Parnell | [de Archiis][042]{:target="_blank"} | [de Archiis][042]{:target="_blank"} | 철근콘크리트 | N | [CASA][042_1]{:target="_blank"} |
-| 판교역로 28번길 10 | Heavenly | [이재하건축사사무소][043]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | N | [CASA][043_1]{:target="_blank"} |
-| 운중로 166번길 20-11 | Le Cube Blanc | 이순조, 이경은 |  [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | N | [CASA][044_1]{:target="_blank"} |
-| 판교로 210번길 88 | X+HOUSE | 마추건축 | 호수건설 | 철근콘크리트 | N | [주택저널][045_1]{:target="_blank"} |
-| 서판교로 132번길 15-7 | P House | [유토포건축사사무소][046]{:target="_blank"} | [이안알앤씨][046_1]{:target="_blank"} | 철근콘크리트 | Y | [주택저널][046_2]{:target="_blank"} |
-| 서판교로32번길 19-6 | Wall House | [운생동][047]{:target="_blank"} | 리원건설 | 철근콘크리트 | N | [행복이 가득한집][047_1]{:target="_blank"}, [월간Space][047_2]{:target="_blank"}  |
-| 판교로 210번길 12-2 | Maison Ciel | [ISM건축][048]{:target="_blank"} | | 철근콘크리트 | N | [행복이 가득한집][048_1]{:target="_blank"} |
-| 서판교로 66번길 19 | 큐브 하우스 | [경영위치][049]{:target="_blank"} | | 철근콘크리트 | N | [행복이 가득한집][049_1]{:target="_blank"},[월간Space][049_2]{:target="_blank"} |
-| 판교역로 34 | 캥거루하우스 | [유현준건축사사무소][050]{:target="_blank"} | 삼대건설 | 철근콘크리트 | N | [월간Space][050_1]{:target="_blank"} |
-| 판교로209번길 9 | | [예주홈플랜][051]{:target="_blank"} | [예주홈플랜][051]{:target="_blank"} | 경량목 | N | [전원속의 내집][051_1]{:target="_blank"} |
-| 서판교로 44번길 29-3 | | [타니가와][052]{:target="_blank"} | [타니가와][052]{:target="_blank"} | 경량목 | N | [전원속의 내집][052_1]{:target="_blank"} |
-| 판교로 197번길 3-6 | | [타니가와][053]{:target="_blank"} | [타니가와][053]{:target="_blank"} | 중목 | N | [전원속의 내집][053_1]{:target="_blank"} |
-| 판교원로 286번길 37 | 영은재 | [de Archiis][054]{:target="_blank"} | [de Archiis][054]{:target="_blank"} | 철근콘크리트 | N | [CASA][054_1]{:target="_blank"} |
-| 판교로 210번길 12-8 | Table Spoon | [de Archiis][055]{:target="_blank"} | [de Archiis][055]{:target="_blank"} | 철근콘크리트 | N | [CASA][055_1]{:target="_blank"} |
-| 산운로 170번길 3-1 | 기운생동 | [경영위치][056]{:target="_blank"} | [이안알앤씨][056_1]{:target="_blank"}  | 철근콘크리트 | N | [전원주택 라이프][056_2]{:target="_blank"} |
-| 산운로 208번길 39 | P HOUSE | EAST4 | | 철근콘크리트 | N | [월간Space][057_1]{:target="_blank"}, [MasilWIDE][057_2]{:target="_blank"} |
-| 판교원로 14번길 2 | Scale-ing House | [조호건축][058]{:target="_blank"} | | 철근콘크리트 | N | [homify][058_1]{:target="_blank"}, [블로그][058_2]{:target="_blank"} |
-| 운중로 166번길 20-26 | 기숙사(奇淑思) | [유타건축][059]{:target="_blank"} | [시스홈 씨엔엘][059_1]{:target="_blank"} | 경량목 | N | [리빙센스][059_2]{:target="_blank"} |
-| 서판교로 188번길 12-1 | 고동이네 | [솔토지빈건축사사무소][060]{:target="_blank"} | [시스홈 씨엔엘][060_1]{:target="_blank"} | 경량목 | Y | [건축명장][060_2]{:target="_blank"}, [건축주 블로그][060_3]{:target="_blank"} | 
-| 판교로 156번길 4-2 | 손톱집 | [경영위치][061]{:target="_blank"} | [이안알앤씨][061_1]{:target="_blank"} | 철근콘크리트 | N | [월간Space][061_2]{:target="_blank"} |
-| 서판교로 66번길 13-7 | 하늘집 | [SIE][062]{:target="_blank"} | 나래건설 | 철근콘크리트 | N | [시사인][062_1]{:target="_blank"}, [블로그][062_2]{:target="_blank"} |
-| 판교원로 303 | The Float | [조성욱건축사사무소][063]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | Y | [매일경제][063_1]{:target="_blank"}, [건축명장][063_2]{:target="_blank"} |
-| 서판교로 108번길 6 | 파이림(π-林) | [조성욱건축사사무소][064]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | Y | [리빙센스][064_1]{:target="_blank"} |
-| 판교로 209번길 47 | 캥거루집 | [디자인초록][065]{:target="_blank"} | [준성건축][065_1]{:target="_blank"} | 철근콘크리트 | Y | [리빙센스][065_2]{:target="_blank"} |
-| 서판교로 180번길 3-8 | 사각4각 | [가와건축사사무소][066]{:target="_blank"} | 에제르 건설 | 철근콘크리트, 경량목 | N | [월간Space][066_1]{:target="_blank"} |
-| 운중로 166번길 27-12 | 공원집 | [정재헌 건축가][067]{:target="_blank"} | | 철근콘크리트 | N | [월간Space][067_1]{:target="_blank"} |
-| 판교원로 295 | 7˚House | 권혁천 | | | N | [CASA][068_1]{:target="_blank"}, [행복이 가득한집][068_2]{:target="_blank"} |
+| 이름  | 설계  | 시공   | 구조  | 듀플렉스 | 링크 |
+| - | - | - | - | :-: | - |
+<!--판교로 197번길 8-2--> | [온당](http://naver.me/FbQUMDp2){:target="_blank"} | [ofaa][001]{:target="_blank"} | 이든하임 | 경량목 | Y | [전원속의 내집][001_1]{:target="_blank"}, [한국일보][001_2]{:target="_blank"}  |
+<!--서판교로 188번길 11--> | [소소원](http://naver.me/xVHc8rcA){:target="_blank"} | [구가도시][002]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 경량목 | N | [전원속의 내집][002_2]{:target="_blank"} |
+<!--판교로 198번길 3-9--> | [함양재](http://naver.me/5LUhqGgS){:target="_blank"} | [구가도시][003]{:target="_blank"} |  |  | N | [시사인][003_1]{:target="_blank"} |
+<!--서판교로 108번길 12--> | [무이동](http://naver.me/F1lYWfAl){:target="_blank"} | [조성욱건축사사무소][004]{:target="_blank"} | 하오스 | 철근콘크리트 | Y | [전원속의 내집][004_1]{:target="_blank"} |
+<!--서판교로 132번길 15-12--> | [AD Fontes](http://naver.me/FujneaRp) | [TRU Architects][005]{:target="_blank"} | [de Archiis][005_1]{:target="_blank"} | 철근콘크리트 | N | [리빙센스][005_2]{:target="_blank"} |
+<!--서판교로 180번길 9--> | [동/서안재](http://naver.me/GGmZHkZG) | [호멘토][006]{:target="_blank"} | [호멘토][006]{:target="_blank"} | 경량목 | Y | [전원속의 내집][006_1]{:target="_blank"} |
+<!--판교로 210번길 4-1--> | [시전당](http://naver.me/5U7yAgNz) | [JHY건축사무소][007]{:target="_blank"} |  | 철근콘크리트 | N | [homify][007_1]{:target="_blank"} |
+<!--판교로 210번길 18-4--> | One Roof House | [MLNP Architects][008]{:target="_blank"} | [GIP][008_1]{:target="_blank"} | 경량목 | N | [homify][008_2]{:target="_blank"}, [동영상][008_3]{:target="_blank"}, [전원속의 내집][008_4]{:target="_blank"}|
+<!--판교로 197번길 3-10--> | 층층마루집 | [조진만건축사무소][009]{:target="_blank"} |  | 철근콘크리트 | N | [월간공간][009_1]{:target="_blank"} |
+<!--서판교로 180번길 3-3--> | 호연당 | [ATELIER17][010]{:target="_blank"} | 서강건설주식회사 | 철근콘크리트 | N | [homify][010_1]{:target="_blank"} |
+<!--판교로 197번길 19--> | 삼대헌 | [ISM건축][011]{:target="_blank"} | | | N | [리빙센스][011_1]{:target="_blank"} |
+<!--서판교로 32번길 24--> | TIMBER DUPLEX 1 | [민워크샵][012]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 중목 | Y | [homify][012_1]{:target="_blank"} |
+<!--운중로 14번길 51--> | POP House | [AnLStudio][013]{:target="_blank"} | 이든하임 | 경량목 | Y | [전원속의 내집][013_1]{:target="_blank"} |
+<!--서판교로 100번길 4-14--> | 이보재 | [KDDH][014]{:target="_blank"} | [하우징플러스][014_1]{:target="_blank"} | 경량목 | N | [전원속의 내집][014_2]{:target="_blank"} |
+<!--판교원로 311번길 16-9--> | HESED | | | | Y | [우먼센스][015_1]{:target="_blank"}, [건축주 블로그][015_2]{:target="_blank"} |
+<!--서판교로 74번길 10--> | 동행 | [블루하우스코리아][016]{:target="_blank"} | [블루하우스코리아][016]{:target="_blank"} | 중목 | Y | [리빙센스][016_1] |
+<!--서판교로 74번길 6--> | 사이집 | [조성욱건축사사무소][017]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철큰콘크리트 | Y | [블로그][017_2]{:target="_blank"}, [페이스북][017_3]{:target="_blank"} |
+<!--판교원로 30번길 4--> | 도시채 | [유타건축][018]{:target="_blank"} | JAIN | 경량목 | Y | [전원속의 내집][018_1]{:target="_blank"} |
+<!--판교원로 299번길 3--> | 흰벽돌집 | [건축사무소 공감][019]{:target="_blank"} | | 철근콘크리트 | N | [전원속의 내집][019_1]{:target="_blank"} |
+<!--산운로 32번길 30--> | 계수나무집 | [솔토지빈건축사사무소][020]{:target="_blank"} | S5 | 경량목 | N | [동아일보][020_1]{:target="_blank"}, [월간Space][020_2]{:target="_blank"} |
+<!--서판교로 118번길 7--> | IZIP | [이재하건축사사무소][021]{:target="_blank"} | | 철근콘크리트 | N | [CASA][021_1]{:target="_blank"}, [조선일보][021_2]{:target="_blank"} |
+<!--판교원로 299번길 6-5--> | YELLOW WOOD HOUSE | [이진욱건축사사무소][022]{:target="_blank"} | 효상건설 | 철근콘크리트 | N | [블로그][022_2]{:target="_blank"}, [건축명장][022_1]{:target="_blank"} |
+<!--서판교로 180번길 18-5--> | 별똥집 | [SIE][023]{:target="_blank"} | | 철근콘크리트 | N | [리빙센스][023_1]{:target="_blank"}, [월간Space][023_2]{:target="_blank"} |
+<!--판교로 209번길 49-3--> | 우리내 집 | [아이디어5 건축사사무소][024]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 경량목 | N | [전원주택라이프][024_1]{:target="_blank"}, [동영상][024_2]{:target="_blank"}, [건축명장][024_3]{:target="_blank"} |
+<!--판교로 197번길 7--> | 스킵플로어 하우스 | [마고퍼스][025]{:target="_blank"} | [마고퍼스][025]{:target="_blank"} | 경량목 | N | [전원속의 내집][025_1]{:target="_blank"} |
+<!--운중로 14번길 5-5--> | ㄱㅁ주택 | [와이즈건축][026]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | N | [전원속의 내집][026_1]{:target="_blank"} |
+<!--서판교로 66번길 3-3--> | LIFE_FACTORY; 間 | [남기봉건축사사무소][027]{:target="_blank"} | 사람중심 | 철근콘크리트 | N | [건설경제신문][027_1]{:target="_blank"} |
+<!--서판교로 108번길 3-6--> | 반석헌 | [조성욱건축사사무소][028]{:target="_blank"} | [마고퍼스][028_1]{:target="_blank"} | 철근콘크리트 | Y | [리빙센스][028_2]{:target="_blank"} |
+<!--서판교로 188번길 10--> | 오목한집 | [민워크샵][029]{:target="_blank"} | | 철근콘크리트 | Y | [월간Space][029_1]{:target="_blank"} |
+<!--서판교로 58번길 7--> | e블레시움 저에너지하우스 | [노드플랜][030]{:target="_blank"} | [풍산우드홈][030_1]{:target="_blank"} | 경량목 | N | [건축명장][030_2]{:target="_blank"}, [행복이 가득한집][030_3]{:target="_blank"} |
+<!--서판교로 100번길 16--> | 노란돌집 | [SIE][031]{:target="_blank"} | | 철근콘크리트 | N | [이코노믹리뷰][031_1]{:target="_blank"} |
+<!--판교원로 16번길 3--> | I-HOUSE | [SIE][032]{:target="_blank"} | 사람중심 | 철근콘크리트 | N | [전원속의 내집][032_1]{:target="_blank"} |
+<!--서판교로 108번길 14--> | Odd Corner House | [민워크샵][033]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | N | [CASA][033_1]{:target="_blank"} |
+<!--판교원로 299번길 6-6--> | 판교 House | [JYA-rchitects][034]{:target="_blank"} | 위빌 | 철근콘크리트 | Y | [ArchDaily][034_1]{:target="_blank"} |
+<!--운중로197번길 9--> | 미소(美疏) 드리움 하우스 | [블루하우스코리아][016]{:target="_blank"} | [블루하우스코리아][016]{:target="_blank"} | 중목 | N | [전원속의 내집][035_1]{:target="_blank"} |
+<!--판교로 197번길 18--> | 판교동 주택 | [스페이스목금토][036]{:target="_blank"} | 모비덤 | 철근콘크리트 | N | [전원속의 내집][036_1]{:target="_blank"} |
+<!--서판교로 44번길 18-15--> | Casa de la jolla | [정재헌 건축가][037]{:target="_blank"} | | 철근콘크리트, 경량목 | N | [전원속의 내집][037_1]{:target="_blank"} |
+<!--판교원로 287번길 4-6--> | 판교50호 | [이집소][038]{:target="_blank"} | 이든하우스 | 경량목 | Y | [전원속의 내집][038_1]{:target="_blank"} |
+<!--산운로 208번길 10-3--> | Easy House | [TRU Architects][039]{:target="_blank"} | 나래건설 | 철근콘크리트 | N | [전원속의 내집][039_1]{:target="_blank"} |
+<!--서판교로 188--> | Patio House | [바우건축][040]{:target="_blank"} | 이오디자인 | 철근콘크리트 | N | [전원속의 내집][040_1]{:target="_blank"} |
+<!--서판교로 74번길 13--> | 하이안 | [건인 E&C][041]{:target="_blank"} | 르마누아 | 철근콘크리트 | N | [리빙센스][041_1]{:target="_blank"} |
+<!--판교로210번길 16--> | Parnell | [de Archiis][042]{:target="_blank"} | [de Archiis][042]{:target="_blank"} | 철근콘크리트 | N | [CASA][042_1]{:target="_blank"} |
+<!--판교역로 28번길 10--> | Heavenly | [이재하건축사사무소][043]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | N | [CASA][043_1]{:target="_blank"} |
+<!--운중로 166번길 20-11--> | Le Cube Blanc | 이순조, 이경은 |  [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | N | [CASA][044_1]{:target="_blank"} |
+<!--판교로 210번길 88--> | X+HOUSE | 마추건축 | 호수건설 | 철근콘크리트 | N | [주택저널][045_1]{:target="_blank"} |
+<!--서판교로 132번길 15-7--> | P House | [유토포건축사사무소][046]{:target="_blank"} | [이안알앤씨][046_1]{:target="_blank"} | 철근콘크리트 | Y | [주택저널][046_2]{:target="_blank"} |
+<!--서판교로32번길 19-6--> | Wall House | [운생동][047]{:target="_blank"} | 리원건설 | 철근콘크리트 | N | [행복이 가득한집][047_1]{:target="_blank"}, [월간Space][047_2]{:target="_blank"}  |
+<!--판교로 210번길 12-2--> | Maison Ciel | [ISM건축][048]{:target="_blank"} | | 철근콘크리트 | N | [행복이 가득한집][048_1]{:target="_blank"} |
+<!--서판교로 66번길 19--> | 큐브 하우스 | [경영위치][049]{:target="_blank"} | | 철근콘크리트 | N | [행복이 가득한집][049_1]{:target="_blank"},[월간Space][049_2]{:target="_blank"} |
+<!--판교역로 34--> | 캥거루하우스 | [유현준건축사사무소][050]{:target="_blank"} | 삼대건설 | 철근콘크리트 | N | [월간Space][050_1]{:target="_blank"} |
+<!--판교로209번길 9--> | | [예주홈플랜][051]{:target="_blank"} | [예주홈플랜][051]{:target="_blank"} | 경량목 | N | [전원속의 내집][051_1]{:target="_blank"} |
+<!--서판교로 44번길 29-3--> | | [타니가와][052]{:target="_blank"} | [타니가와][052]{:target="_blank"} | 경량목 | N | [전원속의 내집][052_1]{:target="_blank"} |
+<!--판교로 197번길 3-6--> | | [타니가와][053]{:target="_blank"} | [타니가와][053]{:target="_blank"} | 중목 | N | [전원속의 내집][053_1]{:target="_blank"} |
+<!--판교원로 286번길 37--> | 영은재 | [de Archiis][054]{:target="_blank"} | [de Archiis][054]{:target="_blank"} | 철근콘크리트 | N | [CASA][054_1]{:target="_blank"} |
+<!--판교로 210번길 12-8--> | Table Spoon | [de Archiis][055]{:target="_blank"} | [de Archiis][055]{:target="_blank"} | 철근콘크리트 | N | [CASA][055_1]{:target="_blank"} |
+<!--산운로 170번길 3-1--> | 기운생동 | [경영위치][056]{:target="_blank"} | [이안알앤씨][056_1]{:target="_blank"}  | 철근콘크리트 | N | [전원주택 라이프][056_2]{:target="_blank"} |
+<!--산운로 208번길 39--> | P HOUSE | EAST4 | | 철근콘크리트 | N | [월간Space][057_1]{:target="_blank"}, [MasilWIDE][057_2]{:target="_blank"} |
+<!--판교원로 14번길 2--> | Scale-ing House | [조호건축][058]{:target="_blank"} | | 철근콘크리트 | N | [homify][058_1]{:target="_blank"}, [블로그][058_2]{:target="_blank"} |
+<!--운중로 166번길 20-26--> | 기숙사(奇淑思) | [유타건축][059]{:target="_blank"} | [시스홈 씨엔엘][059_1]{:target="_blank"} | 경량목 | N | [리빙센스][059_2]{:target="_blank"} |
+<!--서판교로 188번길 12-1--> | 고동이네 | [솔토지빈건축사사무소][060]{:target="_blank"} | [시스홈 씨엔엘][060_1]{:target="_blank"} | 경량목 | Y | [건축명장][060_2]{:target="_blank"}, [건축주 블로그][060_3]{:target="_blank"} | 
+<!--판교로 156번길 4-2--> | 손톱집 | [경영위치][061]{:target="_blank"} | [이안알앤씨][061_1]{:target="_blank"} | 철근콘크리트 | N | [월간Space][061_2]{:target="_blank"} |
+<!--서판교로 66번길 13-7--> | 하늘집 | [SIE][062]{:target="_blank"} | 나래건설 | 철근콘크리트 | N | [시사인][062_1]{:target="_blank"}, [블로그][062_2]{:target="_blank"} |
+<!--판교원로 303--> | The Float | [조성욱건축사사무소][063]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | Y | [매일경제][063_1]{:target="_blank"}, [건축명장][063_2]{:target="_blank"} |
+<!--서판교로 108번길 6--> | 파이림(π-林) | [조성욱건축사사무소][064]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | Y | [리빙센스][064_1]{:target="_blank"} |
+<!--판교로 209번길 47--> | 캥거루집 | [디자인초록][065]{:target="_blank"} | [준성건축][065_1]{:target="_blank"} | 철근콘크리트 | Y | [리빙센스][065_2]{:target="_blank"} |
+<!--서판교로 180번길 3-8--> | 사각4각 | [가와건축사사무소][066]{:target="_blank"} | 에제르 건설 | 철근콘크리트, 경량목 | N | [월간Space][066_1]{:target="_blank"} |
+<!--운중로 166번길 27-12--> | 공원집 | [정재헌 건축가][067]{:target="_blank"} | | 철근콘크리트 | N | [월간Space][067_1]{:target="_blank"} |
+<!--판교원로 295--> | 7˚House | 권혁천 | | | N | [CASA][068_1]{:target="_blank"}, [행복이 가득한집][068_2]{:target="_blank"} |
 
 
 [068_1]: http://www.casa.co.kr/brand/contents/view.do?articleNo=6105&schCd=0101070107
