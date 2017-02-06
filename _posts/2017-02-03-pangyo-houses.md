@@ -76,7 +76,15 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | <!--서판교로 180번길 3-8-->[사각4각](http://naver.me/xG5q8Z46){:target="_blank"} | [가와건축사사무소][066]{:target="_blank"} | 에제르 건설 | RC, 경량목 | N | [월간Space][066_1]{:target="_blank"} |
 | <!--운중로 166번길 27-12-->[공원집](http://naver.me/G4AbFiet){:target="_blank"} | [정재헌 건축가][067]{:target="_blank"} | | RC | N | [월간Space][067_1]{:target="_blank"} |
 | <!--판교원로 295-->[7˚House](http://naver.me/xIE4yzeh){:target="_blank"} | 권혁천 | | | N | [CASA][068_1]{:target="_blank"}, [행복이 가득한집][068_2]{:target="_blank"} |
+| <!--판교로 209번길 15-->[온유재](http://naver.me/GM6KIqej){:target="_blank"} | [건축사사무소 공장][069]{:target="_blank"} | | RC | N | [건설경제신문][069_1]{:target="_blank"} |
+| <!--산운로 56번길 4-->[안단테 칸타빌레](http://naver.me/GbmdWbix) | [유하우스][070]{:target="_blank"} | [유하우스][070]{:target="_blank"} | RC | N | [건설경제신문][070_1]{:target="_blank"} |
 
+
+[070]: http://blog.naver.com/u-haus/220600917879
+[070_1]: http://www.cnews.co.kr/uhtml/read.jsp?idxno=201504131120497960175
+
+[069]: http://gjarch.com/index.php/time/-/2/
+[069_1]: http://www.cnews.co.kr/uhtml/read.jsp?idxno=201612021553560190404
 
 [068_1]: http://www.casa.co.kr/brand/contents/view.do?articleNo=6105&schCd=0101070107
 [068_2]: http://happy.designhouse.co.kr/magazine/magazine_view?info_id=61082
