@@ -59,8 +59,8 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | <!--서판교로 66번길 19-->[큐브 하우스](http://naver.me/5k8cmFJu){:target="_blank"} | [경영위치][049]{:target="_blank"} | | RC | N | [행복이 가득한집][049_1]{:target="_blank"},[월간Space][049_2]{:target="_blank"} |
 | <!--판교역로 34-->[캥거루하우스](http://naver.me/IDh0dL1a){:target="_blank"} | [유현준건축사사무소][050]{:target="_blank"} | 삼대건설 | RC | N | [월간Space][050_1]{:target="_blank"} |
 | <!--판교로209번길 9-->[지도](http://naver.me/GBV1Jwa3){:target="_blank"} | [예주홈플랜][051]{:target="_blank"} | [예주홈플랜][051]{:target="_blank"} | 경량목 | N | [전원속의 내집][051_1]{:target="_blank"} |
-| <!--서판교로 44번길 29-3-->[지도](http://naver.me/FQlq2HUb){:target="_blank"} | [타니가와][052]{:target="_blank"} | [타니가와][052]{:target="_blank"} | 경량목 | N | [전원속의 내집][052_1]{:target="_blank"} |
-| <!--판교로 197번길 3-6-->[지도](http://naver.me/Gv0pVmkY){:target="_blank"} | [타니가와][053]{:target="_blank"} | [타니가와][053]{:target="_blank"} | 중량목 | N | [전원속의 내집][053_1]{:target="_blank"} |
+| <!--서판교로 44번길 29-3-->[map](http://naver.me/FQlq2HUb){:target="_blank"} | [타니가와][052]{:target="_blank"} | [타니가와][052]{:target="_blank"} | 경량목 | N | [전원속의 내집][052_1]{:target="_blank"} |
+| <!--판교로 197번길 3-6-->[map](http://naver.me/Gv0pVmkY){:target="_blank"} | [타니가와][053]{:target="_blank"} | [타니가와][053]{:target="_blank"} | 중량목 | N | [전원속의 내집][053_1]{:target="_blank"} |
 | <!--판교원로 286번길 37-->[영은재](http://naver.me/xkfwbaJ2){:target="_blank"} | [de Archiis][054]{:target="_blank"} | [de Archiis][054]{:target="_blank"} | RC | N | [CASA][054_1]{:target="_blank"} |
 | <!--판교로 210번길 12-8-->[Table Spoon](http://naver.me/Glq1gkPn){:target="_blank"} | [de Archiis][055]{:target="_blank"} | [de Archiis][055]{:target="_blank"} | RC | N | [CASA][055_1]{:target="_blank"} |
 | <!--산운로 170번길 3-1-->[기운생동](http://naver.me/FzGu50u3){:target="_blank"} | [경영위치][056]{:target="_blank"} | [이안알앤씨][056_1]{:target="_blank"}  | RC | N | [전원주택 라이프][056_2]{:target="_blank"} |
@@ -78,7 +78,14 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | <!--판교원로 295-->[7˚House](http://naver.me/xIE4yzeh){:target="_blank"} | 권혁천 | | | N | [CASA][068_1]{:target="_blank"}, [행복이 가득한집][068_2]{:target="_blank"} |
 | <!--판교로 209번길 15-->[온유재](http://naver.me/GM6KIqej){:target="_blank"} | [건축사사무소 공장][069]{:target="_blank"} | | RC | N | [건설경제신문][069_1]{:target="_blank"} |
 | <!--산운로 56번길 4-->[안단테 칸타빌레](http://naver.me/GbmdWbix) | [유하우스][070]{:target="_blank"} | [유하우스][070]{:target="_blank"} | RC | N | [건설경제신문][070_1]{:target="_blank"} |
+| <!--판교원로 311번길 15-->[가족의 꿈이 자라는 집](http://naver.me/GmwjmeeH) | [토우재][071] | | RC | N | [주택저널][071_1] |
+| <!--판교역로 28번길 14-->[L.K. House](http://naver.me/xo2z3xRa) | [토우재][071] | (주)예성인 | RC | N | [주택저널][072_1] |
 
+
+[072_1]: http://www.jutek.kr/user/selectBbsColumn.do?BBS_NUM=287&COD03_CODE=c0301&MEN02_NUM=28&pageNum=8
+
+[071]: http://www.towoojae.com/bbs/board.php?bo_table=works5
+[071_1]: http://www.jutek.kr/user/selectBbsColumn.do?BBS_NUM=358&COD03_CODE=c0301&MEN02_NUM=28&pageNum=7
 
 [070]: http://blog.naver.com/u-haus/220600917879
 [070_1]: http://www.cnews.co.kr/uhtml/read.jsp?idxno=201504131120497960175
