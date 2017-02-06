@@ -73,6 +73,11 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | 판교원로 303 | The Float | [조성욱건축사사무소][063]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | Y | [매일경제][063_1]{:target="_blank"}, [건축명장][063_2]{:target="_blank"} |
 | 서판교로 108번길 6 | 파이림(π-林) | [조성욱건축사사무소][064]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | 철근콘크리트 | Y | [리빙센스][064_1]{:target="_blank"} |
 | 판교로 209번길 47 | 캥거루집 | [디자인초록][065]{:target="_blank"} | [준성건축][065_1]{:target="_blank"} | 철근콘크리트 | Y | [리빙센스][065_2]{:target="_blank"} |
+| 서판교로 180번길 3-8 | 사각4각 | [가와건축사사무소][066]{:target="_blank"} | 에제르 건설 | 철근콘크리트, 경량목 | N | [월간Space][066_1]{:target="_blank"} |
+
+
+[066]: http://kawadesign.net/wp/portfolio/2120/
+[066_1]: http://www.vmspace.com/2008_re/kor/sub_emagazine_view.asp?category=architecture&idx=12201&pageNum=1
 
 [065]: http://blog.naver.com/want38
 [065_1]: http://www.jscons.co.kr/bbs/board.php?bo_table=menu3_02&wr_id=11
