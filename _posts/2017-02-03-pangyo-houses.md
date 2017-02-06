@@ -75,7 +75,11 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | 판교로 209번길 47 | 캥거루집 | [디자인초록][065]{:target="_blank"} | [준성건축][065_1]{:target="_blank"} | 철근콘크리트 | Y | [리빙센스][065_2]{:target="_blank"} |
 | 서판교로 180번길 3-8 | 사각4각 | [가와건축사사무소][066]{:target="_blank"} | 에제르 건설 | 철근콘크리트, 경량목 | N | [월간Space][066_1]{:target="_blank"} |
 | 운중로 166번길 27-12 | 공원집 | [정재헌 건축가][067]{:target="_blank"} | | 철근콘크리트 | N | [월간Space][067_1]{:target="_blank"} |
+| 판교원로 295 | 7˚House | 권혁천 | | | N | [CASA][068_1]{:target="_blank"}, [행복이 가득한집][068_2]{:target="_blank"} |
 
+
+[068_1]: http://www.casa.co.kr/brand/contents/view.do?articleNo=6105&schCd=0101070107
+[068_2]: http://happy.designhouse.co.kr/magazine/magazine_view?info_id=61082
 
 [067]: http://www.jeongjaeheon.com/
 [067_1]: http://www.vmspace.com/2008_re/kor/sub_emagazine_view.asp?category=architecture&idx=11958&pageNum=13
