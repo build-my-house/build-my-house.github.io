@@ -15,11 +15,11 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | <!--서판교로 132번길 15-12-->[AD Fontes](http://naver.me/FujneaRp){:target="_blank"} | [TRU Architects][005]{:target="_blank"} | [de Archiis][005_1]{:target="_blank"} | 철근콘크리트 | N | [리빙센스][005_2]{:target="_blank"} |
 | <!--서판교로 180번길 9-->[동/서안재](http://naver.me/GGmZHkZG){:target="_blank"} | [호멘토][006]{:target="_blank"} | [호멘토][006]{:target="_blank"} | 경량목 | Y | [전원속의 내집][006_1]{:target="_blank"} |
 | <!--판교로 210번길 4-1-->[시전당](http://naver.me/5U7yAgNz){:target="_blank"} | [JHY건축사무소][007]{:target="_blank"} |  | 철근콘크리트 | N | [homify][007_1]{:target="_blank"} |
-| <!--판교로 210번길 18-4-->One Roof House | [MLNP Architects][008]{:target="_blank"} | [GIP][008_1]{:target="_blank"} | 경량목 | N | [homify][008_2]{:target="_blank"}, [동영상][008_3]{:target="_blank"}, [전원속의 내집][008_4]{:target="_blank"}|
-| <!--판교로 197번길 3-10-->층층마루집 | [조진만건축사무소][009]{:target="_blank"} |  | 철근콘크리트 | N | [월간공간][009_1]{:target="_blank"} |
-| <!--서판교로 180번길 3-3-->호연당 | [ATELIER17][010]{:target="_blank"} | 서강건설주식회사 | 철근콘크리트 | N | [homify][010_1]{:target="_blank"} |
-| <!--판교로 197번길 19-->삼대헌 | [ISM건축][011]{:target="_blank"} | | | N | [리빙센스][011_1]{:target="_blank"} |
-| <!--서판교로 32번길 24-->TIMBER DUPLEX 1 | [민워크샵][012]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 중목 | Y | [homify][012_1]{:target="_blank"} |
+| <!--판교로 210번길 18-4-->[One Roof House](http://naver.me/Fpz2uwMs) | [MLNP Architects][008]{:target="_blank"} | [GIP][008_1]{:target="_blank"} | 경량목 | N | [homify][008_2]{:target="_blank"}, [동영상][008_3]{:target="_blank"}, [전원속의 내집][008_4]{:target="_blank"}|
+| <!--판교로 197번길 3-10-->[층층마루집](http://naver.me/GoVMCwsP) | [조진만건축사무소][009]{:target="_blank"} |  | 철근콘크리트 | N | [월간공간][009_1]{:target="_blank"} |
+| <!--서판교로 180번길 3-3-->[호연당](http://naver.me/IM3gCENM) | [ATELIER17][010]{:target="_blank"} | 서강건설주식회사 | 철근콘크리트 | N | [homify][010_1]{:target="_blank"} |
+| <!--판교로 197번길 19-->[삼대헌](http://naver.me/xZ2LBXeK) | [ISM건축][011]{:target="_blank"} | | | N | [리빙센스][011_1]{:target="_blank"} |
+| <!--서판교로 32번길 24-->[TIMBER DUPLEX 1](http://naver.me/5shzlPnV) | [민워크샵][012]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 중목 | Y | [homify][012_1]{:target="_blank"} |
 | <!--운중로 14번길 51-->POP House | [AnLStudio][013]{:target="_blank"} | 이든하임 | 경량목 | Y | [전원속의 내집][013_1]{:target="_blank"} |
 | <!--서판교로 100번길 4-14-->이보재 | [KDDH][014]{:target="_blank"} | [하우징플러스][014_1]{:target="_blank"} | 경량목 | N | [전원속의 내집][014_2]{:target="_blank"} |
 | <!--판교원로 311번길 16-9-->HESED | | | | Y | [우먼센스][015_1]{:target="_blank"}, [건축주 블로그][015_2]{:target="_blank"} |
