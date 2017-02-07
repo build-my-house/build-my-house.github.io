@@ -84,7 +84,22 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | <!--산운로 170번길 11-->[소소헌(蘇素軒)](http://naver.me/Fs5GmOq1){:target="_blank"} | [UTOLabs][074]{:target="_blank"} | [C&O건설][074_1]{:target="_blank"} | RC | N | [MasilWIDE][074_2]{:target="_blank"}, [월간Space][074_3]{:target="_blank"} |
 | <!--판교로 210번길 84-3-->[map](http://naver.me/GRY2swZs){:target="_blank"} | [이재하건축사사무소][075]{:target="_blank"} | | RC | N | [월간Space][075_1]{:target="_blank"} |
 | <!--서판교로 100번길 4-18-->[에지하우스 Ⅱ](http://naver.me/5oF9Nebj){:target="_blank"} | [ISM건축][076]{:target="_blank"} | [다산건설엔지니어링][076_1]{:target="_blank"} | RC | N | [월간Space][076_2]{:target="_blank"} |
+| <!--서판교로 100번길 12-->[map](http://naver.me/5OxIN8Rg){:target="_blank"} | [이재하건축사사무소][077]{:target="_blank"} | | RC | N | [블로그][077_1]{:target="_blank"} |
+| <!--서판교로 126번길 3-5-->[위가원](http://naver.me/FE8aFqiu){:target="_blank"} [이재하건축사사무소][078]{:target="_blank"} | | RC | N | [CASA][078_1]{:target="_blank"} |
+| <!--판교원로 299번길 2-->[상현재](http://naver.me/IDh0PtQU){:target="_blank"} | [이재하건축사사무소][079]{:target="_blank"} | | RC | N | [월간웨딩21][079_1]{:target="_blank"} |
+| <!--운중로 14번길 49-->[임소재](http://naver.me/5pxmbf4W){:target="_blank"} | [조성욱건축사사무소][080]{:target="_blank"} |  [JArchiv][080_1]{:target="_blank"} | RC | Y | |
 
+[080]: http://www.johsungwook.com/index.php?/projects/unjung-ns-house/
+[080_1]: http://www.jarchiv.com/bbs/board.php?bo_table=portfolio&wr_id=78/3660031334_TgQe42oj_01.jpg
+
+[079]: http://www.leejaeha.com/work/work11.html
+[079_1]: http://www.wef.co.kr/bbs/board.php?bo_table=life&wr_id=79518
+
+[078]: http://www.leejaeha.com/work/works2011-6.html
+[078]: http://navercast.naver.com/magazine_contents.nhn?rid=1409&contents_id=16979
+
+[077]: http://www.leejaeha.com/work/works2012-3.html
+[077_1]: http://fottec.com/220071282273
 
 [076]: http://ism-architects.com/?fluxus_portfolio=edge-house-ii
 [076_1]: http://blog.naver.com/dasan_ce/220615281190
