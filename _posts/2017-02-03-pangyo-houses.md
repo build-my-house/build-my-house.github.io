@@ -33,14 +33,14 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | <!--서판교로 180번길 18-5-->[별똥집](http://naver.me/5DUa69vy){:target="_blank"} | [SIE][023]{:target="_blank"} | | RC | N | [리빙센스][023_1]{:target="_blank"}, [월간Space][023_2]{:target="_blank"} |
 | <!--판교로 209번길 49-3-->[우리내 집](http://naver.me/x6lrKdzM){:target="_blank"} | [아이디어5 건축사사무소][024]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 경량목 | N | [전원주택라이프][024_1]{:target="_blank"}, [동영상][024_2]{:target="_blank"}, [건축명장][024_3]{:target="_blank"} |
 | <!--판교로 197번길 7-->[스킵플로어 하우스](http://naver.me/5KeBp0Xw){:target="_blank"} | [마고퍼스][025]{:target="_blank"} | [마고퍼스][025]{:target="_blank"} | 경량목 | N | [전원속의 내집][025_1]{:target="_blank"} |
-| <!--운중로 14번길 5-5-->[ㄱㅁ주택](http://naver.me/GCRzBCSg){:target="_blank"} | [와이즈건축][026]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | RC | N | [전원속의 내집][026_1]{:target="_blank"} |
+| <!--운중로 14번길 5-5-->[ㄱㅁ주택](http://naver.me/GCRzBCSg){:target="_blank"} | [와이즈건축][026]{:target="_blank"} | [JArchiv][026_2]{:target="_blank"} | RC | N | [전원속의 내집][026_1]{:target="_blank"} |
 | <!--서판교로 66번길 3-3-->[LIFE_FACTORY; 間](http://naver.me/FXgWqef4){:target="_blank"} | [남기봉건축사사무소][027]{:target="_blank"} | 사람중심 | RC | N | [건설경제신문][027_1]{:target="_blank"} |
 | <!--서판교로 108번길 3-6-->[반석헌](http://naver.me/FaxGoySu){:target="_blank"} | [조성욱건축사사무소][028]{:target="_blank"} | [마고퍼스][028_1]{:target="_blank"} | RC | Y | [리빙센스][028_2]{:target="_blank"} |
 | <!--서판교로 188번길 10-->[오목한집](http://naver.me/5iAOCdOe){:target="_blank"} | [민워크샵][029]{:target="_blank"} | | RC | Y | [월간Space][029_1]{:target="_blank"} |
 | <!--서판교로 58번길 7-->[e블레시움 저에너지하우스](http://naver.me/GVspxkCA){:target="_blank"} | [노드플랜][030]{:target="_blank"} | [풍산우드홈][030_1]{:target="_blank"} | 경량목 | N | [건축명장][030_2]{:target="_blank"}, [행복이 가득한집][030_3]{:target="_blank"} |
 | <!--서판교로 100번길 16-->[노란돌집](http://naver.me/50kUCI8G){:target="_blank"} | [SIE][031]{:target="_blank"} | | RC | N | [이코노믹리뷰][031_1]{:target="_blank"} |
 | <!--판교원로 16번길 3-->[I-HOUSE](http://naver.me/FNPUTsd0){:target="_blank"} | [SIE][032]{:target="_blank"} | 사람중심 | RC | N | [전원속의 내집][032_1]{:target="_blank"} |
-| <!--서판교로 108번길 14-->[Odd Corner House](http://naver.me/G8dcBxmE){:target="_blank"} | [민워크샵][033]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | RC | N | [CASA][033_1]{:target="_blank"} |
+| <!--서판교로 108번길 14-->[Odd Corner House](http://naver.me/G8dcBxmE){:target="_blank"} | [민워크샵][033]{:target="_blank"} | [JArchiv][033_2]{:target="_blank"} | RC | N | [CASA][033_1]{:target="_blank"} |
 | <!--판교원로 299번길 6-6-->[판교 House](http://naver.me/FI02dQ9y){:target="_blank"} | [JYA-rchitects][034]{:target="_blank"} | 위빌 | RC | Y | [ArchDaily][034_1]{:target="_blank"} |
 | <!--운중로197번길 9-->[미소(美疏) 드리움 하우스](http://naver.me/GBV1Jr4J){:target="_blank"} | [블루하우스코리아][016]{:target="_blank"} | [블루하우스코리아][016]{:target="_blank"} | 중량목 | N | [전원속의 내집][035_1]{:target="_blank"} |
 | <!--판교로 197번길 18-->[판교동 주택](http://naver.me/5YYO9sMZ){:target="_blank"} | [스페이스목금토][036]{:target="_blank"} | 모비덤 | RC | N | [전원속의 내집][036_1]{:target="_blank"} |
@@ -50,8 +50,8 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | <!--서판교로 188-->[Patio House](http://naver.me/x0KA9VAH){:target="_blank"} | [바우건축][040]{:target="_blank"} | 이오디자인 | RC | N | [전원속의 내집][040_1]{:target="_blank"} |
 | <!--서판교로 74번길 13-->[하이안](http://naver.me/FBRF4TYE){:target="_blank"} | [건인 E&C][041]{:target="_blank"} | 르마누아 | RC | N | [리빙센스][041_1]{:target="_blank"} |
 | <!--판교로210번길 16-->[Parnell](http://naver.me/xSmtwio3){:target="_blank"} | [de Archiis][042]{:target="_blank"} | [de Archiis][042]{:target="_blank"} | RC | N | [CASA][042_1]{:target="_blank"} |
-| <!--판교역로 28번길 10-->[Heavenly](http://naver.me/xaG4IbCz){:target="_blank"} | [이재하건축사사무소][043]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | RC | N | [CASA][043_1]{:target="_blank"} |
-| <!--운중로 166번길 20-11-->[Le Cube Blanc](http://naver.me/5t5GQavj){:target="_blank"} | 이순조, 이경은 |  [JArchiv][017_1]{:target="_blank"} | RC | N | [CASA][044_1]{:target="_blank"} |
+| <!--판교역로 28번길 10-->[Heavenly](http://naver.me/xaG4IbCz){:target="_blank"} | [이재하건축사사무소][043]{:target="_blank"} | [JArchiv][043_2]{:target="_blank"} | RC | N | [CASA][043_1]{:target="_blank"} |
+| <!--운중로 166번길 20-11-->[Le Cube Blanc](http://naver.me/5t5GQavj){:target="_blank"} | 이순조, 이경은 |  [JArchiv][044_2]{:target="_blank"} | RC | N | [CASA][044_1]{:target="_blank"} |
 | <!--판교로 210번길 88-->[X+HOUSE](http://naver.me/GcIJlfn4){:target="_blank"} | 마추건축 | 호수건설 | RC | N | [주택저널][045_1]{:target="_blank"} |
 | <!--서판교로 132번길 15-7-->[P House](http://naver.me/5oF9dMbr){:target="_blank"} | [유토포건축사사무소][046]{:target="_blank"} | [이안알앤씨][046_1]{:target="_blank"} | RC | Y | [주택저널][046_2]{:target="_blank"} |
 | <!--서판교로32번길 19-6-->[Wall House](http://naver.me/5PfMePIj){:target="_blank"} | [운생동][047]{:target="_blank"} | 리원건설 | RC | N | [행복이 가득한집][047_1]{:target="_blank"}, [월간Space][047_2]{:target="_blank"}  |
@@ -70,8 +70,8 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | <!--서판교로 188번길 12-1-->[고동이네](http://naver.me/xqrF2koF){:target="_blank"} | [솔토지빈건축사사무소][060]{:target="_blank"} | [시스홈 씨엔엘][060_1]{:target="_blank"} | 경량목 | Y | [건축명장][060_2]{:target="_blank"}, [건축주 블로그][060_3]{:target="_blank"} | 
 | <!--판교로 156번길 4-2-->[손톱집](http://naver.me/xqrF2ksx){:target="_blank"} | [경영위치][061]{:target="_blank"} | [이안알앤씨][061_1]{:target="_blank"} | RC | N | [월간Space][061_2]{:target="_blank"} |
 | <!--서판교로 66번길 13-7-->[하늘집](http://naver.me/x7Tqw9Lk){:target="_blank"} | [SIE][062]{:target="_blank"} | 나래건설 | RC | N | [시사인][062_1]{:target="_blank"}, [블로그][062_2]{:target="_blank"} |
-| <!--판교원로 303-->[The Float](http://naver.me/xTx2Mwvt){:target="_blank"} | [조성욱건축사사무소][063]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | RC | Y | [매일경제][063_1]{:target="_blank"}, [건축명장][063_2]{:target="_blank"} |
-| <!--서판교로 108번길 6-->[파이림(π-林)](http://naver.me/GE2GzgKm){:target="_blank"} | [조성욱건축사사무소][064]{:target="_blank"} | [JArchiv][017_1]{:target="_blank"} | RC | Y | [리빙센스][064_1]{:target="_blank"} |
+| <!--판교원로 303-->[The Float](http://naver.me/xTx2Mwvt){:target="_blank"} | [조성욱건축사사무소][063]{:target="_blank"} | [JArchiv][063_3]{:target="_blank"} | RC | Y | [매일경제][063_1]{:target="_blank"}, [건축명장][063_2]{:target="_blank"} |
+| <!--서판교로 108번길 6-->[파이림(π-林)](http://naver.me/GE2GzgKm){:target="_blank"} | [조성욱건축사사무소][064]{:target="_blank"} | [JArchiv][064_2]{:target="_blank"} | RC | Y | [리빙센스][064_1]{:target="_blank"} |
 | <!--판교로 209번길 47-->[캥거루집](http://naver.me/G4AbFaYT){:target="_blank"} | [디자인초록][065]{:target="_blank"} | [준성건축][065_1]{:target="_blank"} | RC | Y | [리빙센스][065_2]{:target="_blank"} |
 | <!--서판교로 180번길 3-8-->[사각4각](http://naver.me/xG5q8Z46){:target="_blank"} | [가와건축사사무소][066]{:target="_blank"} | 에제르 건설 | RC, 경량목 | N | [월간Space][066_1]{:target="_blank"} |
 | <!--운중로 166번길 27-12-->[공원집](http://naver.me/G4AbFiet){:target="_blank"} | [정재헌 건축가][067]{:target="_blank"} | | RC | N | [월간Space][067_1]{:target="_blank"} |
@@ -88,8 +88,17 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | <!--서판교로 126번길 3-5-->[위가원](http://naver.me/FE8aFqiu){:target="_blank"} | [이재하건축사사무소][078]{:target="_blank"} | | RC | N | [CASA][078_1]{:target="_blank"} |
 | <!--판교원로 299번길 2-->[상현재](http://naver.me/IDh0PtQU){:target="_blank"} | [이재하건축사사무소][079]{:target="_blank"} | | RC | N | [월간웨딩21][079_1]{:target="_blank"} |
 | <!--운중로 14번길 49-->[임소재](http://naver.me/5pxmbf4W){:target="_blank"} | [조성욱건축사사무소][080]{:target="_blank"} |  [JArchiv][080_1]{:target="_blank"} | RC | Y | |
-| <!--서판교로 6번길 6-->[map](http://naver.me/GVsp6zQ2) | [이손건축][081]{:target="_blank"} | [JArchiv][081_1]{:target="_blank"} | RC | N | [건축명장][081_2]{:target="_blank"} |
+| <!--서판교로 6번길 6-->[map](http://naver.me/GVsp6zQ2){:target="_blank"} | [이손건축][081]{:target="_blank"} | [JArchiv][081_1]{:target="_blank"} | RC | N | [건축명장][081_2]{:target="_blank"} |
+| <!--운중로 197번길 3-->[방연당](http://naver.me/FTFv6Bsz){:target="_blank"} | [버텍스 디자인][082]{:target="_blank"} | [de Archiis](082_1){:target="_blank"} | RC | N | [행복이 가득한 집](082_2){:target="_blank"} |
+| <!--서판교로 126번길 13-4-->[판교 s](http://naver.me/IgBd6fd1){:target="_blank"} | [구가도시](083){:target="_blank"} | [JArchiv][083_1]{:target="_blank"} | RC | Y | [한겨레][083_2]{:target="_blank"} |
 
+[083]: http://www.guga.co.kr/
+[083_1]: http://www.jarchiv.com/bbs/board.php?bo_table=portfolio&wr_id=69&page=0&page=0
+[083_2]: http://www.hani.co.kr/arti/specialsection/esc_section/623859.html
+
+[082]: http://ver-tex.net/?page_id=4509
+[082_1]: http://www.dearchiis.co.kr/bbs/board.php?bo_table=projects&wr_id=10
+[082_2]: http://happy.designhouse.co.kr/magazine/magazine_view?info_id=50771
 
 [081]: https://www.isonarch.com/
 [081_1]: http://www.jarchiv.com/bbs/board.php?bo_table=portfolio&wr_id=95&page=0&page=0
@@ -148,10 +157,12 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 
 [064]: http://www.johsungwook.com/index.php?/projects/pangyo-superduplex/
 [064_1]: http://www.smlounge.co.kr/living/article/33199
+[064_2]: http://www.jarchiv.com/bbs/board.php?bo_table=portfolio&wr_id=96&page=0&page=0
 
 [063]: http://www.johsungwook.com/index.php?/projects/pangyodong-residence-645-8/
 [063_1]: http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=009&aid=0003772083
 [063_2]: http://masterbuilder.kr/portfolio/더-플로트/
+[063_3]: http://www.jarchiv.com/bbs/board.php?bo_table=portfolio&wr_id=92&page=0&page=0
 
 [062]: http://www.sie-jungsujin.com/p/portfolio_page/spring-house하늘집/
 [062_1]: http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=308&aid=0000008582
@@ -217,9 +228,11 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 [045_1]: http://www.jutek.kr/user/selectBbsColumn.do?BBS_NUM=6891&COD03_CODE=c0301&MEN02_NUM=28
 
 [044_1]: http://www.casa.co.kr/brand/contents/view.do?articleNo=7466&pg=13&schCd=0101070101&depth=2
+[044_2]: http://www.jarchiv.com/bbs/board.php?bo_table=portfolio&wr_id=64&page=0&page=0
 
 [043]: http://www.leejaeha.com/work/works2013-1.html
 [043_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1409&contents_id=54618
+[043_2]: http://www.jarchiv.com/bbs/board.php?bo_table=portfolio&wr_id=72&page=0&page=0
 
 [042]: http://www.dearchiis.co.kr/bbs/board.php?bo_table=projects&wr_id=83
 [042_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1409&contents_id=83525
@@ -249,6 +262,7 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 
 [033]: http://www.minworkshop.com/index.php?/odd-corner/
 [033_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1409&contents_id=18430
+[033_2]: http://www.jarchiv.com/bbs/board.php?bo_table=portfolio&wr_id=65&page=0&page=0
 
 [032]: http://www.sie-jungsujin.com/p/portfolio_page/i-house이-집-ver02/
 [032_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=108161
@@ -273,6 +287,7 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 
 [026]: http://wisearchitecture.com/index.php/projects/km/
 [026_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=57867
+[026_2]: http://www.jarchiv.com/bbs/board.php?bo_table=portfolio&wr_id=68&page=0&page=0
 
 [025]: http://www.magopus.co.kr/bbs/board.php?bo_table=ex&wr_id=176
 [025_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=70594
