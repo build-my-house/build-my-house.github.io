@@ -80,7 +80,12 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | <!--산운로 56번길 4-->[안단테 칸타빌레](http://naver.me/GbmdWbix){:target="_blank"} | [유하우스][070]{:target="_blank"} | [유하우스][070]{:target="_blank"} | RC | N | [건설경제신문][070_1]{:target="_blank"} |
 | <!--판교원로 311번길 15-->[가족의 꿈이 자라는 집](http://naver.me/GmwjmeeH){:target="_blank"} | [토우재][071]{:target="_blank"} | | RC | N | [주택저널][071_1]{:target="_blank"} |
 | <!--판교역로 28번길 14-->[L.K. House](http://naver.me/xo2z3xRa){:target="_blank"} | [토우재][071]{:target="_blank"} | (주)예성인 | RC | N | [주택저널][072_1]{:target="_blank"} |
+| <!--판교로 210번길 88-4-->[요철동(凹凸棟)](http://naver.me/FjketeKX){:target="_blank"} | [정재헌 건축가][067]{:target="_blank"} | | RC | N | [이코노믹리뷰][073_1]{:target="_blank"}, [건축도시정보센터][073_2]{:target="_blank"} |
 
+
+
+[073_1]: http://www.econovill.com/archives/82451
+[073_2]: http://www.aurum.re.kr/Bits/BuildingDoc.aspx?num=2506#.WJlPXLaLSl4
 
 [072_1]: http://www.jutek.kr/user/selectBbsColumn.do?BBS_NUM=287&COD03_CODE=c0301&MEN02_NUM=28&pageNum=8
 
