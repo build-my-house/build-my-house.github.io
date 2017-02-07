@@ -81,8 +81,17 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | <!--판교원로 311번길 15-->[가족의 꿈이 자라는 집](http://naver.me/GmwjmeeH){:target="_blank"} | [토우재][071]{:target="_blank"} | | RC | N | [주택저널][071_1]{:target="_blank"} |
 | <!--판교역로 28번길 14-->[L.K. House](http://naver.me/xo2z3xRa){:target="_blank"} | [토우재][071]{:target="_blank"} | (주)예성인 | RC | N | [주택저널][072_1]{:target="_blank"} |
 | <!--판교로 210번길 88-4-->[요철동(凹凸棟)](http://naver.me/FjketeKX){:target="_blank"} | [정재헌 건축가][067]{:target="_blank"} | | RC | N | [이코노믹리뷰][073_1]{:target="_blank"}, [건축도시정보센터][073_2]{:target="_blank"} |
-| <!--산운로 170번길 11-->[소소헌(蘇素軒)](http://naver.me/Fs5GmOq1) | [UTOLabs][074]{:target="_blank"} | [C&O건설][074_1]{:target="_blank"} | RC | N | [MasilWIDE][074_2]{:target="_blank"}, [월간Space][074_3]{:target="_blank"} |
+| <!--산운로 170번길 11-->[소소헌(蘇素軒)](http://naver.me/Fs5GmOq1){:target="_blank"} | [UTOLabs][074]{:target="_blank"} | [C&O건설][074_1]{:target="_blank"} | RC | N | [MasilWIDE][074_2]{:target="_blank"}, [월간Space][074_3]{:target="_blank"} |
+| <!--판교로 210번길 84-3-->[map](http://naver.me/GRY2swZs){:target="_blank"} | [이재하건축사사무소][075]{:target="_blank"} | | RC | N | [월간Space][075_1]{:target="_blank"} |
+| <!--서판교로 100번길 4-18-->[에지하우스 Ⅱ](http://naver.me/5oF9Nebj){:target="_blank"} | [ISM건축][076]{:target="_blank"} | [다산건설엔지니어링][076_1]{:target="_blank"} | RC | N | [월간Space][076_2]{:target="_blank"} |
 
+
+[076]: http://ism-architects.com/?fluxus_portfolio=edge-house-ii
+[076_1]: http://blog.naver.com/dasan_ce/220615281190
+[076_2]: http://www.vmspace.com/2008_re/kor/sub_emagazine_view.asp?category=architecture&idx=12215&pageNum=1
+
+[075]: http://www.leejaeha.com/work/works2013-3.html
+[075_1]: http://masilwide.com/pangyo-leejaeha-architects/
 
 [074]: http://utolabs.com/xe/index.php?mid=projects&category=408
 [074_1]: http://www.cnoenc.com/projects.html
