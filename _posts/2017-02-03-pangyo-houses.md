@@ -320,10 +320,9 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 [018_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=120238
 
 [017]: http://www.johsungwook.com/index.php?/projects/pangyodong-duplex-house/
-[017_1]: http://www.jarchiv.com
+[017_1]: http://www.jarchiv.com/bbs/board.php?bo_table=portfolio&wr_id=77
 [017_2]: http://blog.naver.com/s908028/220441693482
 [017_3]: https://www.facebook.com/pages/판교-사이집-思異集/587031538071246
-[017_4]" http://www.jarchiv.com/bbs/board.php?bo_table=portfolio&wr_id=77
 
 [016]: http://www.koreabluehouse.com/works
 [016_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1094&contents_id=127381
