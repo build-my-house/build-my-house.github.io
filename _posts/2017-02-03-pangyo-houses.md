@@ -91,6 +91,12 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | <!--서판교로 6번길 6-->[map](http://naver.me/GVsp6zQ2){:target="_blank"} | [이손건축][081]{:target="_blank"} | [JArchiv][081_1]{:target="_blank"} | RC | N | [건축명장][081_2]{:target="_blank"} |
 | <!--운중로 197번길 3-->[방연당](http://naver.me/FTFv6Bsz){:target="_blank"} | [버텍스 디자인][082]{:target="_blank"} | [de Archiis](082_1){:target="_blank"} | RC | N | [행복이 가득한 집](082_2){:target="_blank"} |
 | <!--서판교로 126번길 13-4-->[판교 s](http://naver.me/IgBd6fd1){:target="_blank"} | [구가도시](083){:target="_blank"} | [JArchiv][083_1]{:target="_blank"} | RC | Y | [한겨레][083_2]{:target="_blank"} |
+| <!--운중로 14번길 19-12-->[키싱 에지 하우스](http://naver.me/GLrdqaIv){:target="_blank"} | [민워크샵][084]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 경량목 | Y | [리빙센스][084_1]{:target="_blank"}, [동영상][084_2]{:target="_blank"} | 
+
+
+[084]: http://www.minworkshop.com/index.php?/kissing-edge/
+[084_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1094&contents_id=105662
+[084_2]: https://www.youtube.com/watch?v=ZsW1F1rorpA
 
 [083]: http://www.guga.co.kr/
 [083_1]: http://www.jarchiv.com/bbs/board.php?bo_table=portfolio&wr_id=69&page=0&page=0
