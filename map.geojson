@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
+        "이름": "가나다라",
+        "설계": "설계사",
+        "시공": "시공사"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.09573924541473,
+          37.40219306710956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "medium",
+        "marker-symbol": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.09600746631624,
+          37.40232517186244
+        ]
+      }
+    }
+  ]
+}
