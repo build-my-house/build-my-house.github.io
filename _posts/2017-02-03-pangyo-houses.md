@@ -6,6 +6,77 @@ categories: 자료
 tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉스
 ---
 
+<div id="map" style="width:100%;height:600px;"></div>
+
+<script type="text/javascript" src="https://openapi.map.naver.com/openapi/v3/maps.js?clientId=O9eVjL1IphOxrVTcB0Uk"></script>
+<script>
+
+var infos = [
+    ["온당", 127.096382, 37.4016035],
+    ["소소원", 127.0940359, 37.4025029],
+    ["함양재", 127.0977068, 37.400278],
+    ["무이동", 127.0992295, 37.396576],
+    ["AD Fontes", 127.0973557, 37.399659],
+    ["동/서안재", 127.0939312, 37.4020216],
+    ["시전당", 127.0979108, 37.4008404],
+    ["One Roof House", 127.0983947, 37.3999584],
+    ["층층마루집", 127.0957756, 37.4014999],
+    ["호연당", 127.093291, 37.4019889],
+    ["삼대헌", 127.0953177, 37.4023279],
+    ["TIMBER DUPLEX 1", 127.100289, 37.389514],
+    ["POP House", 127.0693863, 37.3893289],
+    ["이보재", 127.0996546, 37.3954831],
+    ["HESED", 127.1009825, 37.3873983],
+    ["동행", 127.0993804, 37.3933808],
+    ["사이집", 127.0989368, 37.3933657],
+    ["도시채", 127.0695033, 37.38974],
+    ["흰벽돌집", 127.0990391, 37.3869491],
+    ["계수나무집", 127.0659444, 37.3926041],
+    ["IZIP", 127.0982138, 37.397695],
+    ["YELLOW WOOD HOUSE", 127.0996888, 37.3873134],
+    ["별똥집", 127.0953796, 37.4020008],
+    ["우리내 집", 127.0928823, 37.4032538],
+    ["스킵플로어 하우스", 127.0960134, 37.4013944],
+    ["ㄱㅁ주택", 127.0653488, 37.3909712]
+];
+var map = new naver.maps.Map('map', {
+    center: new naver.maps.LatLng(37.3950388, 127.084037),
+    zoom: 10,
+    zoomControl: true,
+    zoomControlOptions: { //줌 컨트롤의 옵션
+        position: naver.maps.Position.TOP_RIGHT
+    }
+});
+
+function getClickHandler(marker, infoWindow) {
+    return function(e) {
+        if (infoWindow.getMap()) {
+            infoWindow.close();
+        } else {
+            infoWindow.open(map, marker);
+        }
+    }
+}
+
+for (var i = 0; i <infos.length; i++) {
+
+    var info = infos[i]
+
+    var marker = new naver.maps.Marker({
+        position: new naver.maps.LatLng(info[2], info[1]),
+        animation: naver.maps.Animation.DROP,
+        map: map
+    });
+
+    var infoWindow = new naver.maps.InfoWindow({
+        content: '<div style="text-align:center;padding:5px;">' + info[0] + '</div>'
+    });
+
+    naver.maps.Event.addListener(marker, 'click', getClickHandler(marker, infoWindow));
+}
+
+</script>
+
 | 이름  | 설계  | 시공   | 구조  | 듀플렉스 | 링크 |
 | - | - | - | - | :-: | - |
 | <!--판교로 197번길 8-2-->[온당](http://naver.me/FbQUMDp2){:target="_blank"} | [ofaa][001]{:target="_blank"} | 이든하임 | 경량목 | Y | [전원속의 내집][001_1]{:target="_blank"}, [한국일보][001_2]{:target="_blank"}  |
@@ -92,7 +163,6 @@ tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉�
 | <!--운중로 197번길 3-->[방연당](http://naver.me/FTFv6Bsz){:target="_blank"} | [버텍스 디자인][082]{:target="_blank"} | [de Archiis](082_1){:target="_blank"} | RC | N | [행복이 가득한 집](082_2){:target="_blank"} |
 | <!--서판교로 126번길 13-4-->[판교 s](http://naver.me/IgBd6fd1){:target="_blank"} | [구가도시](083){:target="_blank"} | [JArchiv][083_1]{:target="_blank"} | RC | Y | [한겨레][083_2]{:target="_blank"} |
 | <!--운중로 14번길 19-12-->[키싱 에지 하우스](http://naver.me/GLrdqaIv){:target="_blank"} | [민워크샵][084]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 경량목 | Y | [리빙센스][084_1]{:target="_blank"}, [동영상][084_2]{:target="_blank"} | 
-
 
 [084]: http://www.minworkshop.com/index.php?/kissing-edge/
 [084_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1094&contents_id=105662
