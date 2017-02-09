@@ -126,7 +126,6 @@ for (var i = 0; i <infos.length; i++) {
 
     var marker = new naver.maps.Marker({
         position: new naver.maps.LatLng(info[2], info[1]),
-        animation: naver.maps.Animation.DROP,
         map: map
     });
 
@@ -227,7 +226,7 @@ for (var i = 0; i <infos.length; i++) {
 | <!--운중로 14번길 19-12-->[키싱 에지 하우스](http://naver.me/GLrdqaIv){:target="_blank"} | [민워크샵][084]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 경량목 | Y | [리빙센스][084_1]{:target="_blank"}, [동영상][084_2]{:target="_blank"} | 
 | <!--판교원로 311번길 1-->[우정원](http://naver.me/xr1b2jkg){:target="_blank"} | [타니가와][085]{:target="_blank"} | [타니가와][085]{:target="_blank"} | 경량목 | N | [주택저널][085_1]{:target="_blank"} |
 | <!--운중로 166번길 27-16-->[붉은벽돌집](http://naver.me/5lbmuDtK){:target="_blank"} | [SIE][086]{:target="_blank"} | | | N | [동아일보][086_1]{:target="_blank"} |
-| <!--운중로 166번길 19-9-->[Deep Blue House](http://naver.me/FBRsQVGL){:target="_blank"} | [이진욱건축사사무소][087]{:target="_blank"} | | | [리빙센스][087_1]{:target="_blank"} |
+| <!--운중로 166번길 19-9-->[Deep Blue House](http://naver.me/FBRsQVGL){:target="_blank"} | [이진욱건축사사무소][087]{:target="_blank"} | | | | [리빙센스][087_1]{:target="_blank"} |
 
 
 [087]: http://leenhwang.com/archives/portfolio/판교_팝업
