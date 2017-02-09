@@ -96,7 +96,8 @@ var infos = [
     ["방연당", 127.0851121, 37.3912303],
     ["판교 s", 127.0980702, 37.3986601],
     ["키싱 에지 하우스", 127.0669356, 37.3902694],
-    ["우정원", 127.0999701, 37.3861529]
+    ["우정원", 127.0999701, 37.3861529],
+    ["붉은벽돌집", 127.0817646, 37.3891272]
 ];
 
 var map = new naver.maps.Map('map', {
@@ -224,7 +225,12 @@ for (var i = 0; i <infos.length; i++) {
 | <!--서판교로 126번길 13-4-->[판교 s](http://naver.me/IgBd6fd1){:target="_blank"} | [구가도시](083){:target="_blank"} | [JArchiv][083_1]{:target="_blank"} | RC | Y | [한겨레][083_2]{:target="_blank"} |
 | <!--운중로 14번길 19-12-->[키싱 에지 하우스](http://naver.me/GLrdqaIv){:target="_blank"} | [민워크샵][084]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 경량목 | Y | [리빙센스][084_1]{:target="_blank"}, [동영상][084_2]{:target="_blank"} | 
 | <!--판교원로 311번길 1-->[우정원](http://naver.me/xr1b2jkg){:target="_blank"} | [타니가와][085]{:target="_blank"} | [타니가와][085]{:target="_blank"} | 경량목 | N | [주택저널][085_1]{:target="_blank"} |
+| <!--운중로 166번길 27-16-->[붉은벽돌집](http://naver.me/5lbmuDtK){:target="_blank"} | [SIE][086]{:target="_blank"} | | | N | [동아일보][086_1]{:target="_blank"} |
 
+
+
+[086]: http://www.sie-jungsujin.com/p/portfolio_page/red-brick-house%EB%B6%89%EC%9D%80%EB%B2%BD%EB%8F%8C%EC%A7%91/
+[086_1]: http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=020&aid=0002487052
 
 [085]: http://tg-k.co.kr/publicity/ad_read.asp?cidx=163
 [085_1]: http://www.jutek.kr/user/selectBbsColumn.do?BBS_NUM=5638
