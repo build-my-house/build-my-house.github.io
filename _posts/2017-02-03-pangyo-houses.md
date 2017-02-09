@@ -234,7 +234,7 @@ for (var i = 0; i <infos.length; i++) {
 
 
 [089]: http://www.moonhoon.com
-[089_1: http://log114.blog.me/150179564358
+[089_1]: http://log114.blog.me/150179564358
 [089_2]: https://www.countryhome.co.kr:454/atl/view.asp?a_id=4245
 
 [088]: https://www.ecocellhome.com/warmcurve
