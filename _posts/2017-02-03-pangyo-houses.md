@@ -98,7 +98,9 @@ var infos = [
     ["키싱 에지 하우스", 127.0669356, 37.3902694],
     ["우정원", 127.0999701, 37.3861529],
     ["붉은벽돌집", 127.0817646, 37.3891272],
-    ["Deep Blue House", 127.0821594, 37.3894322]
+    ["Deep Blue House", 127.0821594, 37.3894322],
+    ["Warm Curve", 127.0808870, 37.3926838],
+    ["Puzzle House", 127.0682422, 37.3899076]
 ];
 
 var map = new naver.maps.Map('map', {
@@ -227,7 +229,17 @@ for (var i = 0; i <infos.length; i++) {
 | <!--판교원로 311번길 1-->[우정원](http://naver.me/xr1b2jkg){:target="_blank"} | [타니가와][085]{:target="_blank"} | [타니가와][085]{:target="_blank"} | 경량목 | N | [주택저널][085_1]{:target="_blank"} |
 | <!--운중로 166번길 27-16-->[붉은벽돌집](http://naver.me/5lbmuDtK){:target="_blank"} | [SIE][086]{:target="_blank"} | | | N | [동아일보][086_1]{:target="_blank"} |
 | <!--운중로 166번길 19-9-->[Deep Blue House](http://naver.me/FBRsQVGL){:target="_blank"} | [이진욱건축사사무소][087]{:target="_blank"} | | RC | N | [리빙센스][087_1]{:target="_blank"} |
+| <!--산운로 170번길 3-6-->[Warm Curve](http://naver.me/F01ecm6i){:target="_blank"} | [GIP][088]{:target="_blank"} | [GIP][088]{:target="_blank"} | RC | N | [homify][088_1]{:target="_blank"}, [주택저널][088_2]{:target="_blank"} |
+| <!--판교원로 16번길 3-3-->[Puzzle House](http://naver.me/52rWMYqa) | [문훈발전소][089]{:target="_blank"} | [하우징플러스][089_1]{:target="_blank"} | 경량목 | Y | [전원주택라이프][089_1]{:target="_blank"} |
 
+
+[089]: http://www.moonhoon.com
+[089_1: http://log114.blog.me/150179564358
+[089_2]: https://www.countryhome.co.kr:454/atl/view.asp?a_id=4245
+
+[088]: https://www.ecocellhome.com/warmcurve
+[088_1]: https://www.homify.co.kr/ideabooks/9017/homify-360°-프로젝트의-이름만큼-따뜻한-주택-'Warm-Curve-'
+[088_2]: http://www.jutek.kr/user/search/goSearchColumn.do?BBS_NUM=524
 
 [087]: http://leenhwang.com/archives/portfolio/판교_팝업
 [087_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1094&contents_id=82353
