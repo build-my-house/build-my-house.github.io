@@ -100,7 +100,8 @@ var infos = [
     ["붉은벽돌집", 127.0817646, 37.3891272],
     ["Deep Blue House", 127.0821594, 37.3894322],
     ["Warm Curve", 127.0808870, 37.3926838],
-    ["Puzzle House", 127.0682422, 37.3899076]
+    ["Puzzle House", 127.0682422, 37.3899076],
+    ["창조하우징", 127.0986018, 37.3974468]
 ];
 
 var map = new naver.maps.Map('map', {
@@ -192,9 +193,9 @@ for (var i = 0; i <infos.length; i++) {
 | <!--판교로 210번길 12-2-->[Maison Ciel](http://naver.me/5aB5KGax){:target="_blank"} | [ISM건축][048]{:target="_blank"} | | RC | N | [행복이 가득한집][048_1]{:target="_blank"} |
 | <!--서판교로 66번길 19-->[큐브 하우스](http://naver.me/5k8cmFJu){:target="_blank"} | [경영위치][049]{:target="_blank"} | | RC | N | [행복이 가득한집][049_1]{:target="_blank"},[월간Space][049_2]{:target="_blank"} |
 | <!--판교역로 34-->[캥거루하우스](http://naver.me/IDh0dL1a){:target="_blank"} | [유현준건축사사무소][050]{:target="_blank"} | 삼대건설 | RC | N | [월간Space][050_1]{:target="_blank"} |
-| <!--판교로209번길 9-->[지도](http://naver.me/GBV1Jwa3){:target="_blank"} | [예주홈플랜][051]{:target="_blank"} | [예주홈플랜][051]{:target="_blank"} | 경량목 | N | [전원속의 내집][051_1]{:target="_blank"} |
-| <!--서판교로 44번길 29-3-->[map](http://naver.me/FQlq2HUb){:target="_blank"} | [타니가와][052]{:target="_blank"} | [타니가와][052]{:target="_blank"} | 경량목 | N | [전원속의 내집][052_1]{:target="_blank"} |
-| <!--판교로 197번길 3-6-->[map](http://naver.me/Gv0pVmkY){:target="_blank"} | [타니가와][053]{:target="_blank"} | [타니가와][053]{:target="_blank"} | 중량목 | N | [전원속의 내집][053_1]{:target="_blank"} |
+| <!--판교로209번길 9-->[-](http://naver.me/GBV1Jwa3){:target="_blank"} | [예주홈플랜][051]{:target="_blank"} | [예주홈플랜][051]{:target="_blank"} | 경량목 | N | [전원속의 내집][051_1]{:target="_blank"} |
+| <!--서판교로 44번길 29-3-->[-](http://naver.me/FQlq2HUb){:target="_blank"} | [타니가와][052]{:target="_blank"} | [타니가와][052]{:target="_blank"} | 경량목 | N | [전원속의 내집][052_1]{:target="_blank"} |
+| <!--판교로 197번길 3-6-->[-](http://naver.me/Gv0pVmkY){:target="_blank"} | [타니가와][053]{:target="_blank"} | [타니가와][053]{:target="_blank"} | 중량목 | N | [전원속의 내집][053_1]{:target="_blank"} |
 | <!--판교원로 286번길 37-->[영은재](http://naver.me/xkfwbaJ2){:target="_blank"} | [de Archiis][054]{:target="_blank"} | [de Archiis][054]{:target="_blank"} | RC | N | [CASA][054_1]{:target="_blank"} |
 | <!--판교로 210번길 12-8-->[Table Spoon](http://naver.me/Glq1gkPn){:target="_blank"} | [de Archiis][055]{:target="_blank"} | [de Archiis][055]{:target="_blank"} | RC | N | [CASA][055_1]{:target="_blank"} |
 | <!--산운로 170번길 3-1-->[기운생동](http://naver.me/FzGu50u3){:target="_blank"} | [경영위치][056]{:target="_blank"} | [이안알앤씨][056_1]{:target="_blank"}  | RC | N | [전원주택 라이프][056_2]{:target="_blank"} |
@@ -216,13 +217,13 @@ for (var i = 0; i <infos.length; i++) {
 | <!--판교역로 28번길 14-->[L.K. House](http://naver.me/xo2z3xRa){:target="_blank"} | [토우재][071]{:target="_blank"} | (주)예성인 | RC | N | [주택저널][072_1]{:target="_blank"} |
 | <!--판교로 210번길 88-4-->[요철동(凹凸棟)](http://naver.me/FjketeKX){:target="_blank"} | [정재헌 건축가][067]{:target="_blank"} | | RC | N | [이코노믹리뷰][073_1]{:target="_blank"}, [건축도시정보센터][073_2]{:target="_blank"} |
 | <!--산운로 170번길 11-->[소소헌(蘇素軒)](http://naver.me/Fs5GmOq1){:target="_blank"} | [UTOLabs][074]{:target="_blank"} | [C&O건설][074_1]{:target="_blank"} | RC | N | [MasilWIDE][074_2]{:target="_blank"}, [월간Space][074_3]{:target="_blank"} |
-| <!--판교로 210번길 84-3-->[map](http://naver.me/GRY2swZs){:target="_blank"} | [이재하건축사사무소][075]{:target="_blank"} | | RC | N | [월간Space][075_1]{:target="_blank"} |
+| <!--판교로 210번길 84-3-->[-](http://naver.me/GRY2swZs){:target="_blank"} | [이재하건축사사무소][075]{:target="_blank"} | | RC | N | [월간Space][075_1]{:target="_blank"} |
 | <!--서판교로 100번길 4-18-->[에지하우스 Ⅱ](http://naver.me/5oF9Nebj){:target="_blank"} | [ISM건축][076]{:target="_blank"} | [다산건설엔지니어링][076_1]{:target="_blank"} | RC | N | [월간Space][076_2]{:target="_blank"} |
-| <!--서판교로 100번길 12-->[map](http://naver.me/5OxIN8Rg){:target="_blank"} | [이재하건축사사무소][077]{:target="_blank"} | | RC | N | [블로그][077_1]{:target="_blank"} |
+| <!--서판교로 100번길 12-->[-](http://naver.me/5OxIN8Rg){:target="_blank"} | [이재하건축사사무소][077]{:target="_blank"} | | RC | N | [블로그][077_1]{:target="_blank"} |
 | <!--서판교로 126번길 3-5-->[위가원](http://naver.me/FE8aFqiu){:target="_blank"} | [이재하건축사사무소][078]{:target="_blank"} | | RC | N | [CASA][078_1]{:target="_blank"} |
 | <!--판교원로 299번길 2-->[상현재](http://naver.me/IDh0PtQU){:target="_blank"} | [이재하건축사사무소][079]{:target="_blank"} | | RC | N | [월간웨딩21][079_1]{:target="_blank"} |
 | <!--운중로 14번길 49-->[임소재](http://naver.me/5pxmbf4W){:target="_blank"} | [조성욱건축사사무소][080]{:target="_blank"} |  [JArchiv][080_1]{:target="_blank"} | RC | Y | |
-| <!--서판교로 6번길 6-->[map](http://naver.me/GVsp6zQ2){:target="_blank"} | [이손건축][081]{:target="_blank"} | [JArchiv][081_1]{:target="_blank"} | RC | N | [건축명장][081_2]{:target="_blank"} |
+| <!--서판교로 6번길 6-->[-](http://naver.me/GVsp6zQ2){:target="_blank"} | [이손건축][081]{:target="_blank"} | [JArchiv][081_1]{:target="_blank"} | RC | N | [건축명장][081_2]{:target="_blank"} |
 | <!--운중로 197번길 3-->[방연당](http://naver.me/FTFv6Bsz){:target="_blank"} | [버텍스 디자인][082]{:target="_blank"} | [de Archiis](082_1){:target="_blank"} | RC | N | [행복이 가득한 집](082_2){:target="_blank"} |
 | <!--서판교로 126번길 13-4-->[판교 s](http://naver.me/IgBd6fd1){:target="_blank"} | [구가도시](083){:target="_blank"} | [JArchiv][083_1]{:target="_blank"} | RC | Y | [한겨레][083_2]{:target="_blank"} |
 | <!--운중로 14번길 19-12-->[키싱 에지 하우스](http://naver.me/GLrdqaIv){:target="_blank"} | [민워크샵][084]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 경량목 | Y | [리빙센스][084_1]{:target="_blank"}, [동영상][084_2]{:target="_blank"} | 
@@ -231,7 +232,11 @@ for (var i = 0; i <infos.length; i++) {
 | <!--운중로 166번길 19-9-->[Deep Blue House](http://naver.me/FBRsQVGL){:target="_blank"} | [이진욱건축사사무소][087]{:target="_blank"} | | RC | N | [리빙센스][087_1]{:target="_blank"} |
 | <!--산운로 170번길 3-6-->[Warm Curve](http://naver.me/F01ecm6i){:target="_blank"} | [GIP][088]{:target="_blank"} | [GIP][088]{:target="_blank"} | RC | N | [homify][088_1]{:target="_blank"}, [주택저널][088_2]{:target="_blank"} |
 | <!--판교원로 16번길 3-3-->[Puzzle House](http://naver.me/52rWMYqa) | [문훈발전소][089]{:target="_blank"} | [하우징플러스][089_1]{:target="_blank"} | 경량목 | Y | [전원주택라이프][089_1]{:target="_blank"} |
+| <!--서판교로 118번길 4-9-->[-](http://naver.me/5Iu7ldYF) | 이창우 교수(청주대) | [창조하우징][090_1] | 중목 | N | [동영상][090_1] |
 
+
+[090]: http://www.chang-jo.co.kr/new/sub03/sub01.html?bid=con_end&page=&ptype=view&idx=86
+[090_1]: http://blog.naver.com/tlwjddlrk/220732469054
 
 [089]: http://www.moonhoon.com
 [089_1]: http://log114.blog.me/150179564358
