@@ -96,6 +96,7 @@ var infos = [
     ["방연당", 127.0851121, 37.3912303],
     ["판교 s", 127.0980702, 37.3986601],
     ["키싱 에지 하우스", 127.0669356, 37.3902694],
+    ["우정원", 127.0999701, 37.3861529]
 ];
 
 var map = new naver.maps.Map('map', {
@@ -222,6 +223,11 @@ for (var i = 0; i <infos.length; i++) {
 | <!--운중로 197번길 3-->[방연당](http://naver.me/FTFv6Bsz){:target="_blank"} | [버텍스 디자인][082]{:target="_blank"} | [de Archiis](082_1){:target="_blank"} | RC | N | [행복이 가득한 집](082_2){:target="_blank"} |
 | <!--서판교로 126번길 13-4-->[판교 s](http://naver.me/IgBd6fd1){:target="_blank"} | [구가도시](083){:target="_blank"} | [JArchiv][083_1]{:target="_blank"} | RC | Y | [한겨레][083_2]{:target="_blank"} |
 | <!--운중로 14번길 19-12-->[키싱 에지 하우스](http://naver.me/GLrdqaIv){:target="_blank"} | [민워크샵][084]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 경량목 | Y | [리빙센스][084_1]{:target="_blank"}, [동영상][084_2]{:target="_blank"} | 
+| <!--판교원로 311번길 1-->[우정원](http://naver.me/xr1b2jkg){:target="_blank"} | [타니가와][085]{:target="_blank"} | [타니가와][085]{:target="_blank"} | 경량목 | N | [주택저널][085_1]{:target="_blank"} |
+
+
+[085]: http://tg-k.co.kr/publicity/ad_read.asp?cidx=163
+[085_1]: http://www.jutek.kr/user/selectBbsColumn.do?BBS_NUM=5638
 
 [084]: http://www.minworkshop.com/index.php?/kissing-edge/
 [084_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1094&contents_id=105662
