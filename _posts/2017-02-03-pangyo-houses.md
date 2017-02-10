@@ -101,7 +101,8 @@ var infos = [
     ["Deep Blue House", 127.0821594, 37.3894322],
     ["Warm Curve", 127.0808870, 37.3926838],
     ["Puzzle House", 127.0682422, 37.3899076],
-    ["창조하우징", 127.0986018, 37.3974468]
+    ["창조하우징", 127.0986018, 37.3974468],
+    ["빛 우물집", 127.0684968, 37.3896295]
 ];
 
 var map = new naver.maps.Map('map', {
@@ -232,8 +233,12 @@ for (var i = 0; i <infos.length; i++) {
 | <!--운중로 166번길 19-9-->[Deep Blue House](http://naver.me/FBRsQVGL){:target="_blank"} | [이진욱건축사사무소][087]{:target="_blank"} | | RC | N | [리빙센스][087_1]{:target="_blank"} |
 | <!--산운로 170번길 3-6-->[Warm Curve](http://naver.me/F01ecm6i){:target="_blank"} | [GIP][088]{:target="_blank"} | [GIP][088]{:target="_blank"} | RC | N | [homify][088_1]{:target="_blank"}, [주택저널][088_2]{:target="_blank"} |
 | <!--판교원로 16번길 3-3-->[Puzzle House](http://naver.me/52rWMYqa) | [문훈발전소][089]{:target="_blank"} | [하우징플러스][089_1]{:target="_blank"} | 경량목 | Y | [전원주택라이프][089_1]{:target="_blank"} |
-| <!--서판교로 118번길 4-9-->[-](http://naver.me/5Iu7ldYF) | 이창우 교수(청주대) | [창조하우징][090_1] | 중목 | N | [동영상][090_1] |
+| <!--서판교로 118번길 4-9-->[-](http://naver.me/5Iu7ldYF) | 이창우 교수(청주대) | [창조하우징][090_1]{:target="_blank"} | 중목 | N | [동영상][090_1]{:target="_blank"} |
+| <!--판교원로 16번길 3-8-->[빛 우물집](http://naver.me/5RKVnmUO) | [애스크 건축][091]{:target="_blank"} | 케이에스디자인 | RC | Y | [전원속의 내집][091_1]{:target="_blank"} |
 
+
+[091]: https://www.facebook.com/ask.atelier/
+[091_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=113055
 
 [090]: http://www.chang-jo.co.kr/new/sub03/sub01.html?bid=con_end&page=&ptype=view&idx=86
 [090_1]: http://blog.naver.com/tlwjddlrk/220732469054
