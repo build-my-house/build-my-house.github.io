@@ -102,7 +102,8 @@ var infos = [
     ["Warm Curve", 127.0808870, 37.3926838],
     ["Puzzle House", 127.0682422, 37.3899076],
     ["창조하우징", 127.0986018, 37.3974468],
-    ["빛 우물집", 127.0684968, 37.3896295]
+    ["빛 우물집", 127.0684968, 37.3896295],
+    ["ALL-INCLUSIVE", 127.0660997, 37.3908068]
 ];
 
 var map = new naver.maps.Map('map', {
@@ -235,7 +236,9 @@ for (var i = 0; i <infos.length; i++) {
 | <!--판교원로 16번길 3-3-->[Puzzle House](http://naver.me/52rWMYqa){:target="_blank"} | [문훈발전소][089]{:target="_blank"} | [하우징플러스][089_1]{:target="_blank"} | 경량목 | Y | [전원주택라이프][089_1]{:target="_blank"} |
 | <!--서판교로 118번길 4-9-->[-](http://naver.me/5Iu7ldYF){:target="_blank"} | 이창우 교수(청주대) | [창조하우징][090_1]{:target="_blank"} | 중목 | N | [동영상][090_1]{:target="_blank"} |
 | <!--판교원로 16번길 3-8-->[빛 우물집](http://naver.me/5RKVnmUO){:target="_blank"} | [애스크 건축][091]{:target="_blank"} | 케이에스디자인 | RC | Y | [전원속의 내집][091_1]{:target="_blank"} |
+| <!--운중로 30번길 8-->ALL-INCLUSIVE | [블루하우스코리아][016]{:target="_blank"} | [블루하우스코리아][016]{:target="_blank"} | RC | N | [전원속의 내집][092_1]{:target="_blank"} |
 
+[092_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&attrId=&contents_id=83247&leafId=1433
 
 [091]: https://www.facebook.com/ask.atelier/
 [091_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=113055
