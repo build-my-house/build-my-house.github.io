@@ -106,7 +106,8 @@ var infos = [
     ["ALL-INCLUSIVE", 127.0660997, 37.3908068],
     ["여유헌", 127.0848847, 37.3910449],
     ["K House", 127.0938411, 37.4027702],
-    ["Y 주택", 127.1089816, 37.3841894]
+    ["Y 주택", 127.1089816, 37.3841894],
+    ["N/A", 127.0657627, 37.3923820]
 ];
 
 var map = new naver.maps.Map('map', {
@@ -243,7 +244,11 @@ for (var i = 0; i <infos.length; i++) {
 | <!--운중로 187번길 4-8-->[여유헌 (餘惟軒)](http://naver.me/5nqlsPov){:target="_blank"} | [노바건축사사무][093]{:target="_blank"} | 나무이야기 | RC,경량목 | N | [전원속의 내집][093_1]{:target="_blank"} |
 | <!--판교로 197번길 33-1-->[K House](http://naver.me/Gx4wSzvM){:target="_blank"} | [노드플랜][094]{:target="_blank"} | [GIP][094_1]{:target="_blank"} | RC | N | [퀸매거진][094_2]{:target="_blank"} |
 | <!--판교역로 28번길 3-5-->[Y 주택](http://naver.me/5nql4uqw){:target="_blank"} | [ATELIER17][095]{:target="_blank"} | | RC | N | [퀸매거진][095_1]{:target="_blank"} |
+| <!--산운로 32번길 17-7-->[-](http://naver.me/FHNP0JHH){:target="_blank"} | [가인드][096]{:target="_blank"} | [가인드][096]{:target="_blank"} | RC | Y | [전원속의 내집][096_1]{:target="_blank"} |
 
+
+[096]: http://gaind.co.kr/?module=Goods&action=SiteGoods&sMode=SELECT_FORM&sCurrSortCd=001001009&page=1
+[096_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=11972
 
 [095]: http://www.a-17.com/a17_test/portfolio_show.php?idx=105&page=1&works_type=PORTFOLIO
 [095_1]: http://www.queen.co.kr/news/articleView.html?idxno=195463
