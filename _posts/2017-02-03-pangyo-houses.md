@@ -105,7 +105,8 @@ var infos = [
     ["빛 우물집", 127.0684968, 37.3896295],
     ["ALL-INCLUSIVE", 127.0660997, 37.3908068],
     ["여유헌", 127.0848847, 37.3910449],
-    ["K House", 127.0938411, 37.4027702]
+    ["K House", 127.0938411, 37.4027702],
+    ["Y 주택", 127.1089816, 37.3841894]
 ];
 
 var map = new naver.maps.Map('map', {
@@ -241,7 +242,11 @@ for (var i = 0; i <infos.length; i++) {
 | <!--운중로 30번길 8-->ALL-INCLUSIVE | [블루하우스코리아][016]{:target="_blank"} | [블루하우스코리아][016]{:target="_blank"} | RC | N | [전원속의 내집][092_1]{:target="_blank"} |
 | <!--운중로 187번길 4-8-->[여유헌 (餘惟軒)](http://naver.me/5nqlsPov){:target="_blank"} | [노바건축사사무][093]{:target="_blank"} | 나무이야기 | RC,경량목 | N | [전원속의 내집][093_1]{:target="_blank"} |
 | <!--판교로 197번길 33-1-->[K House](http://naver.me/Gx4wSzvM){:target="_blank"} | [노드플랜][094]{:target="_blank"} | [GIP][094_1]{:target="_blank"} | RC | N | [퀸매거진][094_2]{:target="_blank"} |
+| <!--판교역로 28번길 3-5-->[Y 주택](http://naver.me/5nql4uqw){:target="_blank"} | [ATELIER17][095]{:target="_blank"} | | RC | N | [퀸매거진][095_1]{:target="_blank"} |
 
+
+[095]: http://www.a-17.com/a17_test/portfolio_show.php?idx=105&page=1&works_type=PORTFOLIO
+[095_1]: http://www.queen.co.kr/news/articleView.html?idxno=195463
 
 [094]: http://www.nodeplan.com/?sd=2&sc=2_1_2&gyear=2012&wnum=62&page=1
 [094_1]: https://www.ecocellhome.com/nodeplan
