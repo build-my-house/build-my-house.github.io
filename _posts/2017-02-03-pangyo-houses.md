@@ -103,7 +103,8 @@ var infos = [
     ["Puzzle House", 127.0682422, 37.3899076],
     ["창조하우징", 127.0986018, 37.3974468],
     ["빛 우물집", 127.0684968, 37.3896295],
-    ["ALL-INCLUSIVE", 127.0660997, 37.3908068]
+    ["ALL-INCLUSIVE", 127.0660997, 37.3908068],
+    ["여유헌", 127.0848847, 37.3910449]
 ];
 
 var map = new naver.maps.Map('map', {
@@ -237,6 +238,11 @@ for (var i = 0; i <infos.length; i++) {
 | <!--서판교로 118번길 4-9-->[-](http://naver.me/5Iu7ldYF){:target="_blank"} | 이창우 교수(청주대) | [창조하우징][090_1]{:target="_blank"} | 중목 | N | [동영상][090_1]{:target="_blank"} |
 | <!--판교원로 16번길 3-8-->[빛 우물집](http://naver.me/5RKVnmUO){:target="_blank"} | [애스크 건축][091]{:target="_blank"} | 케이에스디자인 | RC | Y | [전원속의 내집][091_1]{:target="_blank"} |
 | <!--운중로 30번길 8-->ALL-INCLUSIVE | [블루하우스코리아][016]{:target="_blank"} | [블루하우스코리아][016]{:target="_blank"} | RC | N | [전원속의 내집][092_1]{:target="_blank"} |
+| <!--운중로 187번길 4-8--> [여유헌 (餘惟軒)](http://naver.me/5nqlsPov) | [노바건축사사무][093] | 나무이야기 | RC+경량목 | N | [전원속의 내집][093_1] |
+
+
+[093]: http://www.studio-nova.co.kr/kr/board/boardview.asp?rec_id=56&table=t01&branch=&page=1
+[093_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=94027
 
 [092_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&attrId=&contents_id=83247&leafId=1433
 
