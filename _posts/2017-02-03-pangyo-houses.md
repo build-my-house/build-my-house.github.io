@@ -107,7 +107,8 @@ var infos = [
     ["여유헌", 127.0848847, 37.3910449],
     ["K House", 127.0938411, 37.4027702],
     ["Y 주택", 127.1089816, 37.3841894],
-    ["N/A", 127.0657627, 37.3923820]
+    ["N/A", 127.0657627, 37.3923820],
+    ["준이네 집", 127.0998945, 37.3932207]
 ];
 
 var map = new naver.maps.Map('map', {
@@ -245,7 +246,10 @@ for (var i = 0; i <infos.length; i++) {
 | <!--판교로 197번길 33-1-->[K House](http://naver.me/Gx4wSzvM){:target="_blank"} | [노드플랜][094]{:target="_blank"} | [GIP][094_1]{:target="_blank"} | RC | N | [퀸매거진][094_2]{:target="_blank"} |
 | <!--판교역로 28번길 3-5-->[Y 주택](http://naver.me/5nql4uqw){:target="_blank"} | [ATELIER17][095]{:target="_blank"} | | RC | N | [퀸매거진][095_1]{:target="_blank"} |
 | <!--산운로 32번길 17-7-->[-](http://naver.me/FHNP0JHH){:target="_blank"} | [가인드][096]{:target="_blank"} | [가인드][096]{:target="_blank"} | RC | Y | [전원속의 내집][096_1]{:target="_blank"} |
+| <!--서판교로 66번길 13-5-->[준이네 집](http://naver.me/x1pBwtVY){:target="_blank"} | [건축사사무소 53427][097]{:target="_blank"} | 유비건설 | RC | N | [행복이 가득한집][097_1]{:target="_blank"} |
 
+[097]: http://www.office-53427.com/k_sub-pages/projects/pankyo.html
+[097_1]: http://happy.designhouse.co.kr/magazine/magazine_view/00010002/3444?call=card&c=0&p=70
 
 [096]: http://gaind.co.kr/?module=Goods&action=SiteGoods&sMode=SELECT_FORM&sCurrSortCd=001001009&page=1
 [096_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=11972
