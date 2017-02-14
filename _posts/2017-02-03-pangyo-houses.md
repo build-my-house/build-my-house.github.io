@@ -110,7 +110,8 @@ var infos = [
     ["N/A", 127.0657627, 37.3923820],
     ["준이네 집", 127.0998945, 37.3932207],
     ["김&박 주택", 127.0661122, 37.3921029],
-    ["조성철의 집", 127.0996283, 37.3890939 ]
+    ["조성철의 집", 127.0996283, 37.3890939],
+    ["하진건", 127.0676950, 37.3920513]
 ];
 
 var map = new naver.maps.Map('map', {
@@ -248,10 +249,13 @@ for (var i = 0; i <infos.length; i++) {
 | <!--판교로 197번길 33-1-->[K House](http://naver.me/Gx4wSzvM){:target="_blank"} | [노드플랜][094]{:target="_blank"} | [GIP][094_1]{:target="_blank"} | RC | N | [퀸매거진][094_2]{:target="_blank"} |
 | <!--판교역로 28번길 3-5-->[Y 주택](http://naver.me/5nql4uqw){:target="_blank"} | [ATELIER17][095]{:target="_blank"} | | RC | N | [퀸매거진][095_1]{:target="_blank"} |
 | <!--산운로 32번길 17-7-->[-](http://naver.me/FHNP0JHH){:target="_blank"} | [가인드][096]{:target="_blank"} | [가인드][096]{:target="_blank"} | RC | Y | [전원속의 내집][096_1]{:target="_blank"} |
-| <!--서판교로 66번길 13-5-->[준이네 집](http://naver.me/x1pBwtVY){:target="_blank"} | [건축사사무소 53427][097]{:target="_blank"} | 유비건설 | RC | N | [행복이 가득한집][097_1]{:target="_blank"} |
-| <!--산운로 32번길 23-->[김&박 주택](http://naver.me/5rVS5c6N){:target="_blank"} | 이영범 | [이안알앤씨][098_1]{:target="_blank"} | RC | N | [월간Space][098_2]{:target="_blank"} |
-| <!--서판교로 32번길 20-6-->[조성철의 집](http://naver.me/5j3fOKHt){:target="_blank"} | [유하우스][099]{:target="_blank"} | | RC | N | [경인일보][099_1]{:target="_blank"} |
+| <!--서판교로66번길 13-5-->[준이네 집](http://naver.me/x1pBwtVY){:target="_blank"} | [건축사사무소 53427][097]{:target="_blank"} | 유비건설 | RC | N | [행복이 가득한집][097_1]{:target="_blank"} |
+| <!--산운로32번길 23-->[김&박 주택](http://naver.me/5rVS5c6N){:target="_blank"} | 이영범 | [이안알앤씨][098_1]{:target="_blank"} | RC | N | [월간Space][098_2]{:target="_blank"} |
+| <!--서판교로32번길 20-6-->[조성철의 집](http://naver.me/5j3fOKHt){:target="_blank"} | [유하우스][099]{:target="_blank"} | | RC | N | [경인일보][099_1]{:target="_blank"} |
+| <!--산운로56번길 6-->[하진건](http://naver.me/FGg9pp00){:target="_blank"} | [민워크샵][100_1]{:target="_blank"} | 사람중심 | RC | N | [CASA][100_1]{:target="_blank"} |
 
+[100]: http://www.minworkshop.com/
+[100_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1409&contents_id=130547
 
 [099]: http://www.u-haus.co.kr/portfolio/?p_url=portfolio_1&B_Name=port&b_dir=talkclub&b_url=list&category=port
 [099_1]: http://www.kyeongin.com/main/view.php?key=714242
