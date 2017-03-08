@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "판교 단독주택 정리"
-date:   2017-02-03 09:54:22 +0900
+date:   2017-03-08 22:45:22 +0900
 categories: 자료
 tags: 판교 운중동 단독주택 건축가 시공사 땅콩주택 듀플렉스
 ---
@@ -111,7 +111,9 @@ var infos = [
     ["준이네 집", 127.0998945, 37.3932207],
     ["김&박 주택", 127.0661122, 37.3921029],
     ["조성철의 집", 127.0996283, 37.3890939],
-    ["하진건", 127.0676380, 37.3918449]
+    ["하진건", 127.0676380, 37.3918449],
+    ["운중동 Skip Floor House", 127.0850396, 37.3915783],
+    ["Harmony", 127.0674435, 37.3924429]
 ];
 
 var map = new naver.maps.Map('map', {
@@ -234,7 +236,7 @@ for (var i = 0; i <infos.length; i++) {
 | <!--판교원로 299번길 2-->[상현재](http://naver.me/IDh0PtQU){:target="_blank"} | [이재하건축사사무소][079]{:target="_blank"} | | RC | N | [월간웨딩21][079_1]{:target="_blank"} |
 | <!--운중로 14번길 49-->[임소재](http://naver.me/5pxmbf4W){:target="_blank"} | [조성욱건축사사무소][080]{:target="_blank"} |  [JArchiv][080_1]{:target="_blank"} | RC | Y | |
 | <!--서판교로 6번길 6-->[-](http://naver.me/GVsp6zQ2){:target="_blank"} | [이손건축][081]{:target="_blank"} | [JArchiv][081_1]{:target="_blank"} | RC | N | [건축명장][081_2]{:target="_blank"} |
-| <!--운중로 197번길 3-->[방연당](http://naver.me/FTFv6Bsz){:target="_blank"} | [버텍스 디자인][082]{:target="_blank"} | [de Archiis](082_1){:target="_blank"} | RC | N | [행복이 가득한 집](082_2){:target="_blank"} |
+| <!--운중로 197번길 3-->[방연당](http://naver.me/FTFv6Bsz){:target="_blank"} | [버텍스 디자인][082]{:target="_blank"} | [de Archiis][082_1]{:target="_blank"} | RC | N | [행복이 가득한 집](082_2){:target="_blank"} |
 | <!--서판교로 126번길 13-4-->[판교 s](http://naver.me/IgBd6fd1){:target="_blank"} | [구가도시](083){:target="_blank"} | [JArchiv][083_1]{:target="_blank"} | RC | Y | [한겨레][083_2]{:target="_blank"} |
 | <!--운중로 14번길 19-12-->[키싱 에지 하우스](http://naver.me/GLrdqaIv){:target="_blank"} | [민워크샵][084]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 경량목 | Y | [리빙센스][084_1]{:target="_blank"}, [동영상][084_2]{:target="_blank"} | 
 | <!--판교원로 311번길 1-->[우정원](http://naver.me/xr1b2jkg){:target="_blank"} | [타니가와][085]{:target="_blank"} | [타니가와][085]{:target="_blank"} | 경량목 | N | [주택저널][085_1]{:target="_blank"} |
@@ -254,6 +256,10 @@ for (var i = 0; i <infos.length; i++) {
 | <!--서판교로32번길 20-6-->[조성철의 집](http://naver.me/5j3fOKHt){:target="_blank"} | [유하우스][099]{:target="_blank"} | | RC | N | [경인일보][099_1]{:target="_blank"} |
 | <!--산운로56번길 8-->[하진건](http://naver.me/FGg9pp00){:target="_blank"} | [민워크샵][100]{:target="_blank"} | 사람중심 | RC | N | [CASA][100_1]{:target="_blank"} |
 | <!--운중로187번길 12-->[운중동 Skip Floor House](http://naver.me/50kwUg0J){:target="_blank"} | [한길건축사사무소][101]{:target="_blank"} | [호멘토][101_1]{:target="_blank"} | 경량목 | N | [전원속의 내집][101_2]{:target="_blank"} |
+| <!--산운로48번길 3-1-->[Harmony](http://naver.me/GuQqEeHV){:target="_blank"} | [de Archiis][102]{:target="_blank"} | [de Archiis][102]{:target="_blank"} | RC | N | [CASA][102_1]{:target="_blank"} |
+
+[102]: http://www.dearchiis.co.kr/bbs/board.php?bo_table=projects&wr_id=96
+[102_1]: http://navercast.naver.com/magazine_contents.nhn?rid=1409&attrId=&contents_id=132033&leafId=1409
 
 [101]: http://hangil.ne.kr/portfolio01/view.php?t=1&idx=111&offset=
 [101_1]: http://www.homento.co.kr/new/04_portfolio/portfolio02.php?board_code=view&sang_no=187
@@ -615,7 +621,5 @@ http://www.iewoo.net/bbs/board.php?bo_table=portfolio1
 http://www.sidam.kr
 http://www.imwood.co.kr/news/articleView.html?idxno=17986
 
-
-운중동 Skip Floor House - 지도에 추가해야함
 
 -->
