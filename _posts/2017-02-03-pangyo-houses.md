@@ -260,7 +260,7 @@ for (var i = 0; i <infos.length; i++) {
 | <!--산운로48번길 3-1-->[Harmony](http://naver.me/GuQqEeHV){:target="_blank"} | [de Archiis][102]{:target="_blank"} | [de Archiis][102]{:target="_blank"} | RC | N | [CASA][102_1]{:target="_blank"} |
 | <!--서판교로100번길 6-->[삼유헌](http://naver.me/50kgZMAh){:target="_blank"} | [시담][103]{:target="_blank"} | | RC | N | [나무신문][103_1]{:target="_blank"} |
 | <!--산운로170번길 3-8-->[코코넛 집](http://naver.me/xxceb7Ml){:target="_blank"} | [디림건축사사무소][104]{:target="_blank"} | | | | [ArchDaily][104_1]{:target="_blank"} |
-| <!--서판교로126번길 4-10-->[Black Box](http://naver.me/GrIvCkFP){:target="_blank"} | [유타건축][105]{:target="_blank"} | [하우징플러스][105_1]{:target="_blank"} | RC | N | [ArchDaily][105_2]{:target="_blank"} |
+| <!--서판교로126번길 4-10-->[Black Box](http://naver.me/GrIvCkFP){:target="_blank"} | [유타건축][105]{:target="_blank"} | [하우징플러스][105_1]{:target="_blank"} | 경량목 | N | [ArchDaily][105_2]{:target="_blank"} |
 
 [105]:http://www.utaa.co.kr/works.html?year=2014&idx=52&
 [105_1]:http://www.housingplus.co.kr/home/index/
