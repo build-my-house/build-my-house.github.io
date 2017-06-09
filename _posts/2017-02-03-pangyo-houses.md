@@ -116,7 +116,8 @@ var infos = [
     ["Harmony", 127.0674435, 37.3924429],
     ["삼유헌", 127.098952, 37.395809],
     ["봄볕 주택", 127.097166, 37.397881],
-    ["BOOK STEP 2.5", 127.064967, 37.391044]
+    ["BOOK STEP 2.5", 127.064967, 37.391044],
+    ["풍경 담은 집", 127.099711, 37.395291]
 ];
 
 var map = new naver.maps.Map('map', {
@@ -158,7 +159,8 @@ for (var i = 0; i <infos.length; i++) {
 
 | 이름  | 설계  | 시공  | 구조  | 듀플렉스 | 링크 |
 | - | - | - | - | :-: | - |
-| <!--운중로14번길 5-->[BOOK STEP 2.5](http://naver.me/xHoHNn22){:target="_blank"} | [유타건축][107_1]{:target="_blank"} | [JAIN건축] | 경량목 | N | [전원속의 내집][107]{:target="_blank"} |
+| <!--판교로210번길 74-6-->[풍경 담은 집](http://naver.me/5M8smQPN){:target="_blank"} | [인디자인][108_1]{:target="_blank"} | | RC | N | [전원주택라이프][108]:target="_blank"} |
+| <!--운중로14번길 5-->[BOOK STEP 2.5](http://naver.me/xHoHNn22){:target="_blank"} | [유타건축][107_1]{:target="_blank"} | JAIN건축 | 경량목 | N | [전원속의 내집][107]{:target="_blank"} |
 | <!--서판교로126번길 3-1-->[봄볕 주택](http://naver.me/Gw3mC3t3){:target="_blank"} | [de Archiis][106_1]{:target="_blank"} | [de Archiis][106_1]{:target="_blank"} | RC | N | [리빙센스][106]{:target="_blank"} |
 | <!--판교로 197번길 8-2-->[온당](http://naver.me/FbQUMDp2){:target="_blank"} | [ofaa][001]{:target="_blank"} | 이든하임 | 경량목 | Y | [전원속의 내집][001_1]{:target="_blank"}, [한국일보][001_2]{:target="_blank"}  |
 | <!--서판교로 188번길 11-->[소소원](http://naver.me/xVHc8rcA){:target="_blank"} | [구가도시][002]{:target="_blank"} | [스튜가][002_1]{:target="_blank"} | 경량목 | N | [전원속의 내집][002_2]{:target="_blank"} |
@@ -265,6 +267,9 @@ for (var i = 0; i <infos.length; i++) {
 | <!--서판교로100번길 6-->[삼유헌](http://naver.me/50kgZMAh){:target="_blank"} | [시담][103]{:target="_blank"} | | RC | N | [나무신문][103_1]{:target="_blank"} |
 | <!--산운로170번길 3-8-->[코코넛 집](http://naver.me/xxceb7Ml){:target="_blank"} | [디림건축사사무소][104]{:target="_blank"} | | | | [ArchDaily][104_1]{:target="_blank"} |
 | <!--서판교로126번길 4-10-->[Black Box](http://naver.me/GrIvCkFP){:target="_blank"} | [유타건축][105]{:target="_blank"} | [하우징플러스][105_1]{:target="_blank"} | 경량목 | N | [ArchDaily][105_2]{:target="_blank"} |
+
+[108]:http://m.post.naver.com/viewer/postView.nhn?volumeNo=8018208&memberNo=24659848
+[108_1]:https://www.in-d.co.kr/blank-2
 
 [107]:http://navercast.naver.com/magazine_contents.nhn?rid=1433&contents_id=134600
 [107_1]:http://www.utaa.co.kr/works.html?year=2017&idx=129&
