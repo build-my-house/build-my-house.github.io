@@ -161,7 +161,7 @@ for (var i = 0; i <infos.length; i++) {
 
 | 이름  | 설계  | 시공  | 구조  | 듀플렉스 | 링크 |
 | - | - | - | - | :-: | - |
-| <!--판교로197번길 12-4-->[판교#15](http://naver.me/I5e9GYxQ){:target="_blank"} | [블루하우스코리아][110]{:target="_blank"} | [블루하우스코리아][110]{:target="_blank"} | 중량목 | Y | [][110_1] |
+| <!--판교로197번길 12-4-->[판교#15](http://naver.me/I5e9GYxQ){:target="_blank"} | [블루하우스코리아][110]{:target="_blank"} | [블루하우스코리아][110]{:target="_blank"} | 중량목 | Y | [전원주택라이프][110_1] |
 | <!--판교로197번길 16-8-->[ㄴㄱ주택](http://naver.me/IxGcJiiV){:target="_blank"} | [스튜디오 바][109_1]{:target="_blank"} | | RC | Y | [전원속의 내집][109]{:target="_blank"} |
 | <!--판교로210번길 74-6-->[풍경 담은 집](http://naver.me/5M8smQPN){:target="_blank"} | [인디자인][108_1]{:target="_blank"} | | RC | N | [전원주택라이프][108]{:target="_blank"} |
 | <!--운중로14번길 5-->[BOOK STEP 2.5](http://naver.me/xHoHNn22){:target="_blank"} | [유타건축][107_1]{:target="_blank"} | JAIN건축 | 경량목 | N | [전원속의 내집][107]{:target="_blank"} |
