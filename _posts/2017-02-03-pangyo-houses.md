@@ -117,7 +117,8 @@ var infos = [
     ["삼유헌", 127.098952, 37.395809],
     ["봄볕 주택", 127.097166, 37.397881],
     ["BOOK STEP 2.5", 127.064967, 37.391044],
-    ["풍경 담은 집", 127.099604, 37.395291]
+    ["풍경 담은 집", 127.099604, 37.395291],
+    ["ㄴㄱ주택", 127.096665, 37.402058]
 ];
 
 var map = new naver.maps.Map('map', {
@@ -159,6 +160,7 @@ for (var i = 0; i <infos.length; i++) {
 
 | 이름  | 설계  | 시공  | 구조  | 듀플렉스 | 링크 |
 | - | - | - | - | :-: | - |
+| <!--판교로197번길 16-8-->[ㄴㄱ주택](http://naver.me/IxGcJiiV){:target="_blank"} | [스튜디오 바][109_1]{:target="_blank"} | | RC | Y | [전원속의 내집][109]{:target="_blank"} |
 | <!--판교로210번길 74-6-->[풍경 담은 집](http://naver.me/5M8smQPN){:target="_blank"} | [인디자인][108_1]{:target="_blank"} | | RC | N | [전원주택라이프][108]{:target="_blank"} |
 | <!--운중로14번길 5-->[BOOK STEP 2.5](http://naver.me/xHoHNn22){:target="_blank"} | [유타건축][107_1]{:target="_blank"} | JAIN건축 | 경량목 | N | [전원속의 내집][107]{:target="_blank"} |
 | <!--서판교로126번길 3-1-->[봄볕 주택](http://naver.me/Gw3mC3t3){:target="_blank"} | [de Archiis][106_1]{:target="_blank"} | [de Archiis][106_1]{:target="_blank"} | RC | N | [리빙센스][106]{:target="_blank"} |
@@ -267,6 +269,9 @@ for (var i = 0; i <infos.length; i++) {
 | <!--서판교로100번길 6-->[삼유헌](http://naver.me/50kgZMAh){:target="_blank"} | [시담][103]{:target="_blank"} | | RC | N | [나무신문][103_1]{:target="_blank"} |
 | <!--산운로170번길 3-8-->[코코넛 집](http://naver.me/xxceb7Ml){:target="_blank"} | [디림건축사사무소][104]{:target="_blank"} | | | | [ArchDaily][104_1]{:target="_blank"} |
 | <!--서판교로126번길 4-10-->[Black Box](http://naver.me/GrIvCkFP){:target="_blank"} | [유타건축][105]{:target="_blank"} | [하우징플러스][105_1]{:target="_blank"} | 경량목 | N | [ArchDaily][105_2]{:target="_blank"} |
+
+[109]: http://m.post.naver.com/viewer/postView.nhn?volumeNo=8903349&memberNo=954004
+[109_1]: http://studioba.co.kr/
 
 [108]:http://m.post.naver.com/viewer/postView.nhn?volumeNo=8018208&memberNo=24659848
 [108_1]:https://www.in-d.co.kr/blank-2
