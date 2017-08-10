@@ -118,7 +118,8 @@ var infos = [
     ["봄볕 주택", 127.097166, 37.397881],
     ["BOOK STEP 2.5", 127.064967, 37.391044],
     ["풍경 담은 집", 127.099604, 37.395291],
-    ["ㄴㄱ주택", 127.096665, 37.402058]
+    ["ㄴㄱ주택", 127.096227, 37.4024172],
+    ["판교#15", 127.0962779, 37.4019775]
 ];
 
 var map = new naver.maps.Map('map', {
@@ -160,6 +161,7 @@ for (var i = 0; i <infos.length; i++) {
 
 | 이름  | 설계  | 시공  | 구조  | 듀플렉스 | 링크 |
 | - | - | - | - | :-: | - |
+| <!--판교로197번길 12-4-->[판교#15](http://naver.me/I5e9GYxQ){:target="_blank"} | [블루하우스코리아][110]{:target="_blank"} | [블루하우스코리아][110]{:target="_blank"} | 중량목 | Y | [][110_1] |
 | <!--판교로197번길 16-8-->[ㄴㄱ주택](http://naver.me/IxGcJiiV){:target="_blank"} | [스튜디오 바][109_1]{:target="_blank"} | | RC | Y | [전원속의 내집][109]{:target="_blank"} |
 | <!--판교로210번길 74-6-->[풍경 담은 집](http://naver.me/5M8smQPN){:target="_blank"} | [인디자인][108_1]{:target="_blank"} | | RC | N | [전원주택라이프][108]{:target="_blank"} |
 | <!--운중로14번길 5-->[BOOK STEP 2.5](http://naver.me/xHoHNn22){:target="_blank"} | [유타건축][107_1]{:target="_blank"} | JAIN건축 | 경량목 | N | [전원속의 내집][107]{:target="_blank"} |
@@ -232,7 +234,7 @@ for (var i = 0; i <infos.length; i++) {
 | <!--서판교로 180번길 3-8-->[사각4각](http://naver.me/xG5q8Z46){:target="_blank"} | [가와건축사사무소][066]{:target="_blank"} | 에제르 건설 | RC, 경량목 | N | [월간Space][066_1]{:target="_blank"} |
 | <!--운중로 166번길 27-12-->[공원집](http://naver.me/G4AbFiet){:target="_blank"} | [정재헌 건축가][067]{:target="_blank"} | | RC | N | [월간Space][067_1]{:target="_blank"} |
 | <!--판교원로 295-->[7˚House](http://naver.me/xIE4yzeh){:target="_blank"} | 권혁천 | | | N | [CASA][068_1]{:target="_blank"}, [행복이 가득한집][068_2]{:target="_blank"} |
-| <!--판교로 209번길 15-->[온유재](http://naver.me/GM6KIqej){:target="_blank"} | [건축사사무소 공장][069]{:target="_blank"} | | RC | N | [건설경제신문][069_1]{:target="_blank"} |
+| <!--판교로 209번길 15-->[온유재](http://naver.me/GM6KIqej){:target="_blank"} | [건축사사무소 공장][069]{:target="_blank"} | | RC | N | [건설경제신문][069_1]{:target="_blank"}, [전원주택라이프][069_2]{:target="_blank" |
 | <!--산운로 56번길 4-->[안단테 칸타빌레](http://naver.me/GbmdWbix){:target="_blank"} | [유하우스][070]{:target="_blank"} | [유하우스][070]{:target="_blank"} | RC | N | [건설경제신문][070_1]{:target="_blank"} |
 | <!--판교원로 311번길 15-->[가족의 꿈이 자라는 집](http://naver.me/GmwjmeeH){:target="_blank"} | [토우재][071]{:target="_blank"} | | RC | N | [주택저널][071_1]{:target="_blank"} |
 | <!--판교역로 28번길 14-->[L.K. House](http://naver.me/xo2z3xRa){:target="_blank"} | [토우재][071]{:target="_blank"} | (주)예성인 | RC | N | [주택저널][072_1]{:target="_blank"} |
@@ -269,6 +271,9 @@ for (var i = 0; i <infos.length; i++) {
 | <!--서판교로100번길 6-->[삼유헌](http://naver.me/50kgZMAh){:target="_blank"} | [시담][103]{:target="_blank"} | | RC | N | [나무신문][103_1]{:target="_blank"} |
 | <!--산운로170번길 3-8-->[코코넛 집](http://naver.me/xxceb7Ml){:target="_blank"} | [디림건축사사무소][104]{:target="_blank"} | | | | [ArchDaily][104_1]{:target="_blank"} |
 | <!--서판교로126번길 4-10-->[Black Box](http://naver.me/GrIvCkFP){:target="_blank"} | [유타건축][105]{:target="_blank"} | [하우징플러스][105_1]{:target="_blank"} | 경량목 | N | [ArchDaily][105_2]{:target="_blank"} |
+
+[110]: http://cafe.naver.com/bluehousekorea/667
+[110_1]: http://m.post.naver.com/viewer/postView.nhn?volumeNo=8820262&memberNo=24659848
 
 [109]: http://m.post.naver.com/viewer/postView.nhn?volumeNo=8903349&memberNo=954004
 [109_1]: http://studioba.co.kr/
@@ -402,6 +407,7 @@ for (var i = 0; i <infos.length; i++) {
 
 [069]: http://gjarch.com/index.php/time/-/2/
 [069_1]: http://www.cnews.co.kr/uhtml/read.jsp?idxno=201612021553560190404
+[069_2]: http://m.post.naver.com/viewer/postView.nhn?volumeNo=8941099&memberNo=24659848
 
 [068_1]: http://www.casa.co.kr/brand/contents/view.do?articleNo=6105&schCd=0101070107
 [068_2]: http://happy.designhouse.co.kr/magazine/magazine_view?info_id=61082
